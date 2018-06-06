@@ -4,3 +4,5 @@ Style guide for the Digital Research Institute.
 
 [Checklist](checklist.md)  
 [Style Guide](style-guide.md)  
+
+Written by Patrick Smyth.
