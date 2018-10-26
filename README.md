@@ -15,9 +15,9 @@ In this repository, you will learn:
 [Style guide](sections/style-guide.md)  
 [Checklist for creating new sessions](sections/checklist.md)  
 
-
-
 -----
+
+Written by Patrick Smyth.
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
