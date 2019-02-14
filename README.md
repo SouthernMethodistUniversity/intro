@@ -2,23 +2,25 @@
 
 DRAFT: sections and reading list not final. 
 
-
 Welcome to DHRI@SMU. 
 
 This repository contains:
 
 - Welcome information
-- Any info/readings to be done before DHRI
+- Any required readings to be done before DHRI
 
 -----
-
 [Reading list](sections/readings.md)  
-Our curriculum is based on the Digital Research Institute (DRI) Curriculum by Graduate Center Digital Initiatives.   
-[This repository contains information for using and contributing to the Digital Humanities Research Institute curriculum](https://github.com/DHRI-Curriculum/guide) 
+
+Related Repositories:
+* [Installation instructions for required software](https://github.com/DHRI-Curriculum/install)
+* [Glossary for all sessions](https://github.com/DHRI-Curriculum/glossary)
 
 -----
 
 Written by GCDI staff & DHRI@SMU staff.
+Our curriculum is based on the Digital Research Institute (DRI) Curriculum by Graduate Center Digital Initiatives.   
+[This repository contains information for using and contributing to the Digital Humanities Research Institute curriculum](https://github.com/DHRI-Curriculum/guide) 
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
