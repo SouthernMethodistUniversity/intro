@@ -7,8 +7,8 @@ Welcome to DHRI@SMU.
 
 This repository contains:
 
-# - Welcome information
- # -Any info/readings to be done before DHRI
+- Welcome information
+- Any info/readings to be done before DHRI
 
 -----
 
