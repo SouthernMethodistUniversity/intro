@@ -9,8 +9,12 @@ This repository contains:
 - Welcome information
 - Any required readings to be done before DHRI
 
+
 -----
-[Reading list](sections/readings.md)  
+[Reading list](sections/readings.md) 
+[Logistics](sections/logistics.md)
+[Structure](sections/structure.md)
+  
 
 Related Repositories:
 * [Installation instructions for required software](https://github.com/DHRI-Curriculum/install)
