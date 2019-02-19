@@ -11,9 +11,12 @@ This repository contains:
 
 
 -----
-[Reading list](sections/readings.md) 
-[Logistics](sections/logistics.md)
-[Structure](sections/structure.md)
+[Reading list](sections/readings.md)  
+
+[Logistics](sections/logistics.md)  
+
+[Structure](sections/structure.md)  
+
   
 
 Related Repositories:
