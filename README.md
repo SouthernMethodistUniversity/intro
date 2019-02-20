@@ -11,6 +11,7 @@ This repository contains:
 
 
 -----
+
 [Reading list](sections/readings.md)  
 
 [Logistics](sections/logistics.md)  
