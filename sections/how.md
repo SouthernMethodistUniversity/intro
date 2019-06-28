@@ -42,6 +42,9 @@ Legitimate Peripheral Practitioner – Apprentice models.
 Becoming skillful and identity are the same process.
 
 # Values and Ethics
+See this session 
+Ethics for Digital Projects and Research](https://github.com/DHRISMU/ethics)
+
 # Labor
 *add text
 

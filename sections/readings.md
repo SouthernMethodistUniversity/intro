@@ -30,6 +30,9 @@ https://dancohen.org/2005/11/21/do-apis-have-a-place-in-the-digital-humanities/.
 * “OKCupid Data Release Fiasco: It’s Time to Rethink Ethics Education - Annette Markham | Social Media, Methods, and Ethics.” Annette Markham, 19 May 2016, https://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics- education/ .
 
 
+#Suggestions for the future
+[Guides & Tutorials by GCDI Fellows](https://gcdi.commons.gc.cuny.edu/guides-tutorials/)
+
 -----
 
 [Logistics](sections/logistics.md)  
