@@ -28,3 +28,24 @@ https://dancohen.org/2005/11/21/do-apis-have-a-place-in-the-digital-humanities/.
 ## Ethics and Digital Research
 * Ethical Decision-Making and Internet Research: Recommendations from the AoIR Ethics Working Committee (Version 2.0). http://aoir.org/reports/ethics2.pdf . Accessed 17 Apr. 2018.
 * “OKCupid Data Release Fiasco: It’s Time to Rethink Ethics Education - Annette Markham | Social Media, Methods, and Ethics.” Annette Markham, 19 May 2016, https://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics- education/ .
+
+
+-----
+
+[Logistics](sections/logistics.md)  
+
+[Slack](sections/Slack.md)  
+
+[Readings](sections/readings.md)  
+
+[DHRI Background](sections/DHRI.md)  
+
+[what is DH?](sections/DH.md)  
+
+[How do we do that?](sections/how.md)  
+
+Written by Rafia Mirza
+
+[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+
+[ When sharing this material or derivative works, preserve this paragraph, changing only the title of the derivative work, or provide comparable attribution.

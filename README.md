@@ -35,6 +35,8 @@ As part of our welcome process, we’ll provide some of the history of the proje
 
 # The pedagogical logics of each workshop session, and how we expect them to build on each other 
 
+*DHRI goal is to create pipeline, so you know what next steps you want to take or what partners you want to seek out. there is a focus on foundational understanding, so you know what questions you want to ask. 
+
 *Introductions to communities of practice and how to determine what kinds of DH you want to do, and what skills that woudl necassiate or what partner you then need to seek out. (No DH project is an island, unless maybe it is a veeeeeeery small island) 
 
 *Command line is to understand the structure of computers and their logic, so when you set up tools in the future, you can set them up to be useful for what you are trying to do. The goal is that when you are setting up environments in something like Rstudio (and it asks you about regrex), you can make informed choices about the settings. 

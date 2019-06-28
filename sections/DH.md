@@ -43,6 +43,13 @@ In this section, attendees should come to understand how to define DH (in a way 
 [![tasks](https://imgs.xkcd.com/comics/tasks.png)](https://xkcd.com/1425/)
 [Explain xkcd 1425] (https://www.explainxkcd.com/wiki/index.php/1425:_Tasks)
 
+#What is DH?
+*What is our working definition/concept of DH?
+*What is not?
+*This concept is established collaboratively and will evolve during your experience
+*DH is not only about tools. It is community.
+*Implication of this way of performing research: The change of authorship, credit, culture, etc
+
 [<<< Return to introduction](README.md)
 
 -----
