@@ -2,6 +2,7 @@
 
 
 # DHRI Reading List
+DRAFT: Reading list not final. 
  
 ## The following links are designed to ensure that all incoming participants have a familiarity with core concepts in how computers and the internet work. They will introduce terms such as input, output, storage, CPU, hardware, software, bits, circuits, and the operating system, as well as wired, cables, wifi, packets, DNS, IP addresses, packets and routing, HTTP and HTML, encryption, public keys, and how search works. The skills workshops will begin with an assumption that you are at least familiar with these concepts and terminology.
 
