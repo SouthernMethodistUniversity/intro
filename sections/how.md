@@ -84,7 +84,9 @@ On paper: prototype what would be a dh project- what expertise, what software, w
 
 [what is DH?](sections/DH.md)  
 
-[How do we do that?](sections/how.md)  
+[How do we do that?](sections/how.md)
+
+[Why coding?](sections/why.md)
 
 Written by Rafia Mirza
 

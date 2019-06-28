@@ -30,7 +30,9 @@ add link to instructor page
 
 [what is DH?](sections/DH.md)  
 
-[How do we do that?](sections/how.md)  
+[How do we do that?](sections/how.md)
+
+[Why coding?](sections/why.md)
 
 Written by Rafia Mirza
 

@@ -42,7 +42,9 @@ https://dancohen.org/2005/11/21/do-apis-have-a-place-in-the-digital-humanities/.
 
 [what is DH?](sections/DH.md)  
 
-[How do we do that?](sections/how.md)  
+[How do we do that?](sections/how.md)
+
+[Why coding?](sections/why.md)
 
 Written by Rafia Mirza
 

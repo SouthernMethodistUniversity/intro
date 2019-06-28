@@ -14,17 +14,16 @@ In this section, attendees should come to understand how to define DH (in a way 
 
 *“At its core digital humanities is more akin to a common methodological outlook than an investment in  any one specific set of texts or even technologies.... Yet digital humanities is also a social undertaking. It harbors networks of people who have been working together, sharing research, arguing, competing, and collaborating for many years.... a culture that values collaboration, openness, nonhierarchical relations, and agility” - [Matthew G. Kirschenbaum in his article “What Is Digital Humanities and What's It Doing in English Departments?](https://mkirschenbaum.files.wordpress.com/2011/01/kirschenbaum_ade150.pdf) 
 
-* Rafia's working definition is: any humanities inquiry where you use computational methods 
+* Rafia's working definition is: any humanities inquiry where you use computational methods, often at scale.  
 
 #'What isn't DH?
 
 *"If all this can be DH, maybe we want to say, fine, what isn't DH? I find that question difficult to answer concisely or usefully?"*
 [A Digital Humanities What, Why, & How by  Dr. Amanda Visconti](https://www.hastac.org/blogs/amanda-visconti/2016/07/25/digital-humanities-what-why-how-dlf-eresearch-network-talk#header-c20) 
 
-
 # What makes up Digital (or computational) + Humanities ?
 
-## what is humanities thinking ?
+## What is humanities thinking ?
 * How would you define the humanities? 
 * What are humanities methodologies? 
 * What are humanities questions?
@@ -50,6 +49,22 @@ In this section, attendees should come to understand how to define DH (in a way 
 *DH is not only about tools. It is community.
 *Implication of this way of performing research: The change of authorship, credit, culture, etc
 
+How do we come up with definitions of DH that is useful? what kind of questions do you ask?
+Humanities thinking/questions, computational thinking, collaborative practices
+Introduce: dh, computational thinking, project scoping etc.
+What is DH?
+There are dh tools, but it is not about just learning a few. (many are open source often change)
+Yack vs hack
+Big tent vs tools and archives 
+Having enough knowledge to make choices
+
+
+
+
+
+
+
+
 [<<< Return to introduction](README.md)
 
 -----
@@ -64,7 +79,9 @@ In this section, attendees should come to understand how to define DH (in a way 
 
 [what is DH?](sections/DH.md)  
 
-[How do we do that?](sections/how.md)  
+[How do we do that?](sections/how.md)
+
+[Why coding?](sections/why.md)
 
 Written by Rafia Mirza
 

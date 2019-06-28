@@ -42,8 +42,9 @@ DHRI emphasizes foundational skills because we believe that it is the most effec
 
 [what is DH?](sections/DH.md)  
 
-[How do we do that?](sections/how.md)  
+[How do we do that?](sections/how.md)
 
+[Why coding?](sections/why.md)
 Written by Rafia Mirza
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
