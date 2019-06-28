@@ -14,7 +14,7 @@ As part of our welcome process, we’ll provide some of the history of the proje
 ## Pedagogical approach
 "The DHRI curriculum places great emphasis on foundational technical skills, and roughly one-third of all sessions at the Institute could be described as foundational. ... The difference between an instrumental approach and a foundational approach is often not immediately appreciated by participants, but over time they begin to change their minds. Although an instrumental approach satisfies a researcher’s most immediate need, a foundational approach takes into consideration the long term impact that learning core skills will have for the future professional and research needs of the scholar.
 
-[DHRI: Notes toward our pedagogical approach by Lisa Rhody, June 17, 2019 (https://www.lisarhody.com/dhri-notes-toward-our-pedagogical-approach/)
+[DHRI: Notes toward our pedagogical approach by Lisa Rhody, June 17, 2019](https://www.lisarhody.com/dhri-notes-toward-our-pedagogical-approach/)
 
 * We explain why understanding grounding principles in how computers work, in what it means to work from the command line, in learning the principles behind good practices for sharing documents, about how coding works, (what databases are), and how coding can be used to search, sort, count, and cluster in ways that can be helpful for humanistic research. 
 * There is a lot that personal computers allow us to take for granted when we do our work; however, knowing fundamentals can help humanities scholars become more confident users and critics of digital technologies. 
@@ -26,9 +26,8 @@ As part of our welcome process, we’ll provide some of the history of the proje
 * By participating in the activities with their fellow attendees they will simulate the work done by digital humanists
 
 # References: 
-[Community of Practice Design Guide: A Step-by-Step Guide for Designing & Cultivating Communities of Practice in Higher Education] (https://library.educause.edu/resources/2005/1/community-of-practice-design-guide-a-stepbystep-guide-for-designing-cultivating-communities-of-practice-in-higher-education) 
- [Teaching in a Digital Age: Communities of practice] 
-(https://opentextbc.ca/teachinginadigitalage/chapter/6-7-experiential-learning/) 
+[Community of Practice Design Guide: A Step-by-Step Guide for Designing & Cultivating Communities of Practice in Higher Education](https://library.educause.edu/resources/2005/1/community-of-practice-design-guide-a-stepbystep-guide-for-designing-cultivating-communities-of-practice-in-higher-education) 
+ [Teaching in a Digital Age: Communities of practice](https://opentextbc.ca/teachinginadigitalage/chapter/6-7-experiential-learning/) 
 
 # Collaborative group set up
 [Based on *A better way to teach technical skills to a group*](http://miriamposner.com/blog/a-better-way-to-teach-technical-skills-to-a-group/)
@@ -49,12 +48,9 @@ As part of our welcome process, we’ll provide some of the history of the proje
 *To build a complete project/expertise is beyond the scope of this institute, but we want to help you build the foundation, and perhaps even an outline of your goal. We want to help you get to a point where you are comfortable figuring it (stack exchange) or you know when you have a question, how to phrase it and find the expertise you want to draw upon (community of practice) 
 
 
-what you will ifnd in this Repository
+What you will ifnd in this Repository
 
 -----
-[Approach](sections/approach.md)  
-
-[Background](sections/background.md)  
 
 [Logistics](sections/logistics.md)  
 
@@ -62,7 +58,12 @@ what you will ifnd in this Repository
 
 [Readings](sections/readings.md)  
 
- 
+[DHRI Background](sections/DHRI.md)  
+
+[what is DH?](sections/DH.md)  
+
+[How do we do that?](sections/how.md)  
+
 
 Related Repositories:
 * [Installation instructions for required software](https://github.com/DHRI-Curriculum/install)
@@ -73,7 +74,7 @@ Related Repositories:
 Session Leaders: [Jonathan McMichael](http://guides.smu.edu/prf.php?account_id=104877) & [Rafia Mirza ](http://guides.smu.edu/prf.php?account_id=142826/)  
 Partially based on previous work by GCDI staff
 
-Written by GCDI staff & DHRI@SMU staff.
+Written by GCDI staff & Rafia Mirza.
 Our curriculum is based on the Digital Research Institute (DHRI) Curriculum by Graduate Center Digital Initiatives.   
 [This repository contains information for using and contributing to the Digital Humanities Research Institute curriculum](https://github.com/DHRI-Curriculum/guide) 
 

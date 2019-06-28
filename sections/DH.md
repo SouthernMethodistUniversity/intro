@@ -47,6 +47,18 @@ In this section, attendees should come to understand how to define DH (in a way 
 
 -----
 
+[Logistics](sections/logistics.md)  
+
+[Slack](sections/Slack.md)  
+
+[Readings](sections/readings.md)  
+
+[DHRI Background](sections/DHRI.md)  
+
+[what is DH?](sections/DH.md)  
+
+[How do we do that?](sections/how.md)  
+
 Written by Rafia Mirza
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
