@@ -21,20 +21,20 @@ Like reading a bibliography
 *Credits at the end of the movie 
 *Affordances & limitations 
 
-Exercise: Taking existing models and adapting it to your field (give them some examples, how would it apply to their field?)
+Exercise: Taking existing models and adapting it to your field (what are some examples? How does it apply to your field?)
 
 Breaking Down into steps.
 Imagining hypothetical projects (wireframing with no knowledge).
-what expertise is needed? Individual expertise may vary.
-what resources are needed?
-what questions are you trying to aks or answer?
-this is meant to be generative 
+What expertise is needed? Individual expertise may vary.
+What resources are needed?
+What questions are you trying to aks or answer?
+This is meant to be generative 
 
 System thinking: about affordances and limitations.
 Focus on what is being hidden from you.
 Refworks vs Zotero
 Precision/control vs ease of use.
-what Affordances & limitations does each path offer?
+What Affordances & limitations does each path offer?
 
 # How do you do that? How do we do that?
 *Not going to be good at everything, what is your area of focus, and what do you know you need help with?
@@ -67,8 +67,8 @@ Documentation is important.
 Harnessing the learning power of Communities of Practice
 
 [Project Charter](https://stewartvarner.com/2014/05/project-charter/) 
-MOU
-PMP
+[MOU](https://rc.library.uta.edu/uta-ir/handle/10106/25646)
+PMP: [Project Management Office (PMO) @SMU](https://www.smu.edu/OIT/Governance)
 
 
 COP has its own momentum. Learning occurs by interacting regularly. DH has one of these. (Rafia's DHRI Experience)

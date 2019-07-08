@@ -16,6 +16,10 @@ In this section, attendees should come to understand how to define DH (in a way 
 
 * Rafia's working definition is: any humanities inquiry where you use computational methods, often at scale.  
 
+See also: [“Digital Humanities” In The Craft of Criticism: Critical Media Studies in Practice. Editors: Kearney MC and Kackman M. 331-346. Routledge, New York, NY 2018.](https://escholarship.org/uc/item/1558k4vg)
+* "This is an overview, history, and typology of digital humanities within the field of media studies. It also contains a step-by-step walkthrough of a digital humanities project I created. I think this will be really helpful for anyone trying to figure out what the heck DH is and how people go about building DH projects."
+*"What should the humanities scholar’s relationship with technology be? Where do humanism and digital technology collide? And where might the intersection of the two produce ideas that—like any good scholarship—show us some kind of beauty, meaning, and order to the world? "
+
 #'What isn't DH?
 
 *"If all this can be DH, maybe we want to say, fine, what isn't DH? I find that question difficult to answer concisely or usefully?"*

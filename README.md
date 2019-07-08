@@ -1,5 +1,5 @@
 # Welcome and Introduction to DHRI@SMU 2019
-*a Foundational Approach to Digital Humanities Research
+* A Foundational Approach to Digital Humanities Research
 
 As part of our welcome process, we’ll provide some of the history of the project, review the schedule,establish the objectives for the Institute, and ask participants to engage in an introductions and ice breaker activity. We’ll review the objectives and the schedule for the next few days, sort out pedagogical practices, and set our ambitious course for our time together. Everything we do throughout the institute is collaboratively and community-driven. 
 
@@ -26,15 +26,17 @@ Be ready! Have all of the software ready to go before the lessons!
 Description
 In this section, attendees should come to understand how this learning environment is designed to work. This is essential because it will let them know what to expect and how to get the most out of this experience. These are the rules, norms, and goals. While the lesson may be individualized the learning experience will be collective. By the end of the week they will not be digital humanities experts but they will be on their way to become full participants in a digital humanities community. 
 Context/Mission:Pilot Program
-Sore vs Pain: A low level of confusion will be the norm
+Sore vs Pain: A low level of confusion will be the norm.
+["What is simple for one use is not for another" ](https://twitter.com/miriamkp/status/984162861705445376)
 Lessons are a mix of doing and listening: Instruction is happening on your screen and through the instructor.
 We are doing this learning together.
 Ask your group member
 Ask your supporters. STAR students.
 This is made for repeated practice use when necessary
-Make the practice authentic (the challenge are designed to actually challenge you)
+Make the practice authentic (the challenges are designed to actually challenge you)
 
 The sessions should build on each other. If they seem unrelated ask for clarification.
+
 Practice being a good teammate. We are establishing a community of practice.
 Rules/Norms
 https://github.com/DHRISMU
@@ -90,33 +92,31 @@ Pedagogical overview
 
 # The pedagogical logics of each workshop session, and how we expect them to build on each other 
 
-*DHRIs' goal is to create pipeline, so you know what next steps you want to take or what partners you want to seek out. there is a focus on foundational understanding, so you know what questions you want to ask. 
+* DHRIs' goal is to create pipeline, so you know what next steps you want to take or what partners you want to seek out. there is a focus on foundational understanding, so you know what questions you want to ask. 
 What are the fundamental conceptual understandings/frameworks needed for: Computational thinking? Humanities thinking? Computation humanities/digital humanities? Collaborative work in the Humanities/ Interdisciplinary work?
 
 What does each workshop do? How does the next one build on it?
 
-*Introductions to communities of practice and how to determine what kinds of DH you want to do, and what skills that woudl necassiate or what partner you then need to seek out. (No DH project is an island, unless maybe it is a veeeeeeery small island) 
+* Introductions to communities of practice and how to determine what kinds of DH you want to do, and what skills that woudl necassiate or what partner you then need to seek out. (No DH project is an island, unless maybe it is a veeeeeeery small island) 
 
-*Command line is to understand the structure of computers and their logic. Introduces conceptualization/ helps to understand directory structure. Helps understand how scripts work.
+* Command line is to understand the structure of computers and their logic. Introduces conceptualization/ helps to understand directory structure. Helps understand how scripts work.
  so when you set up tools in the future, you can set them up to be useful for what you are trying to do. The goal is that when you are setting up environments in something like Rstudio (and it asks you about regrex),you can make informed choices about the settings. 
 
-*Git is logic of versioning of collaborative works as programmers do it, so you can not worry about losing data, collaborative works (coding). Also, how to FTP.   
+* Git is logic of versioning of collaborative works as programmers do it, so you can not worry about losing data, collaborative works (coding). Also, how to FTP.   
 
 Data literacies & ethics ["Data literacy includes statistical literacy but also understanding how to work with large data sets, how they were produced, how to connect various data sets and how to interpret them.”](http://datajournalismhandbook.org/1.0/en/understanding_data_0.html)
  
-*Tools: such as even Zotero or Voyant, when a tool or program asks you to set up an environemnt or chosse specific setting, you understand that a question is being asked that will shape the answers/results you get, and you can answer it, or you know that you can ask someone to help you answer.
+* Tools: such as even Zotero or Voyant, when a tool or program asks you to set up an environemnt or chosse specific setting, you understand that a question is being asked that will shape the answers/results you get, and you can answer it, or you know that you can ask someone to help you answer.
 
-*Note: Skill in programming or tools only grows when you are using them to complete a project (skill building is usually project-based).
+* Note: Skill in programming or tools only grows when you are using them to complete a project (skill building is usually project-based).
 
-*To build a complete project/expertise is beyond the scope of this institute, but we want to help you build the foundation, and perhaps even an outline of your goal.  We want to help you get to a point where you are comfortable figuring it (stack exchange) or you know when you have a question, how to phrase it and find the expertise you want to draw upon (community of practice) 
+* To build a complete project/expertise is beyond the scope of this institute, but we want to help you build the foundation, and perhaps even an outline of your goal.  We want to help you get to a point where you are comfortable figuring it (stack exchange) or you know when you have a question, how to phrase it and find the expertise you want to draw upon (community of practice) 
 
-*In the closing Project Lab we will work on applying what we have discussed  to your specific research data/questions. 
-
+* In the closing Project Lab we will work on applying what we have discussed  to your specific research data/questions. 
 
 ----
 
-
-What you will ifnd in this Repository
+What you will find in this Repository
 
 -----
 
