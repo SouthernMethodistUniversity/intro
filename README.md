@@ -1,64 +1,51 @@
 # Welcome and Introduction to DHRI@SMU 2019
 * A Foundational Approach to Digital Humanities Research
 
-As part of our welcome process, we’ll provide some of the history of the project, review the schedule,establish the objectives for the Institute, and ask participants to engage in an introductions and ice breaker activity. We’ll review the objectives and the schedule for the next few days, sort out pedagogical practices, and set our ambitious course for our time together. Everything we do throughout the institute is collaboratively and community-driven. 
+* As part of our welcome process, we’ll provide some of the history of the project, review the schedule,establish the objectives for the Institute, and ask participants to engage in an introductions and ice breaker activity. We’ll review the objectives and the schedule for the next few days, sort out pedagogical practices, and set our ambitious course for our time together. Everything we do throughout the institute is collaboratively and community-driven. 
 
-Instructors/facilitators
-Rafia & Jonathan
+* Instructors/facilitators : Rafia & Jonathan
+* Helpers: TBA
 
-Helpers
-TBD
+* What resources do you have at your disposal and how to use them?
 
-What resources do you have at your disposal and how to use them?
- Slack
+* Structure/background
+- Open with what are participants interest/area of study
+- Group at tables
+- [Work together to come to solutions (red/green post-it, can you help your tablemate)](http://miriamposner.com/blog/a-better-way-to-teach-technical-skills-to-a-group/)
 
-Structure/background
-Open with what are participants interest/area of study
-Group at tables
-Work together to come to solutions (red/green post-it, can you help your tablemate)
-http://miriamposner.com/blog/a-better-way-to-teach-technical-skills-to-a-group/
+* Prerequisites
+- Are there any readings that should be done beforehand?
+- Any software/hardware requirements
+- Be ready! Have all of the software ready to go before the lessons!
 
-Prerequisites
-Are there any readings that should be done beforehand?
-Any software/hardware requirements
-Be ready! Have all of the software ready to go before the lessons!
+* Description
+- In this section, attendees should come to understand how this learning environment is designed to work. This is essential because it will let them know what to expect and how to get the most out of this experience. These are the rules, norms, and goals. While the lesson may be individualized the learning experience will be collective. By the end of the week they will not be digital humanities experts but they will be on their way to become full participants in a digital humanities community. 
+* Context/Mission:Pilot Program
+- Sore vs Pain: A low level of confusion will be the norm.
+- ["What is simple for one use is not for another" ](https://twitter.com/miriamkp/status/984162861705445376)
+- Lessons are a mix of doing and listening: Instruction is happening on your screen and through the instructor.
+- We are doing this learning together.
+- Ask your group member
+- Ask your supporters. STAR students.
+- This is made for repeated practice use when necessary
+- Make the practice authentic (the challenges are designed to actually challenge you)
+- The sessions should build on each other. If they seem unrelated ask for clarification. Practice being a good teammate. We are establishing a community of practice.
 
-Description
-In this section, attendees should come to understand how this learning environment is designed to work. This is essential because it will let them know what to expect and how to get the most out of this experience. These are the rules, norms, and goals. While the lesson may be individualized the learning experience will be collective. By the end of the week they will not be digital humanities experts but they will be on their way to become full participants in a digital humanities community. 
-Context/Mission:Pilot Program
-Sore vs Pain: A low level of confusion will be the norm.
-["What is simple for one use is not for another" ](https://twitter.com/miriamkp/status/984162861705445376)
-Lessons are a mix of doing and listening: Instruction is happening on your screen and through the instructor.
-We are doing this learning together.
-Ask your group member
-Ask your supporters. STAR students.
-This is made for repeated practice use when necessary
-Make the practice authentic (the challenges are designed to actually challenge you)
+* Learning Objectives
+- An understanding of the importance of community in Digital Humanities and how that might differ from other types of scholarly communities.
+- An understanding that Communities of Practice are the structure of this workshop series and means working together to improve everyone’s learning.
+- Able to identify the support and instruction they will receive. 
+- Digital Humanities is inherently interdisciplinary and collaborative, by participating in the activities with their fellow attendees they will simulate the work done by digital humanists.
+- Attendees should come to understand how to define DH (in a way that is useful for them). This is essential because DH is so many things, what definition is useful for their research and scholarship.  learn how to read 'bibliography' of dh project to see what went into it (about page)
+- Applied Knowledge Scenario/Context: Meet and greet. Stating goals, expectations, and motivations. Interest etc.
 
-The sessions should build on each other. If they seem unrelated ask for clarification.
+* Performance Indicator:
+- Interaction will fellow attendees. Demonstrate an understanding that this is the start of a process and that community is essential for the performance of Digital humanities.
+- Attendees can articulate more sophisticated questions than previous.
 
-Practice being a good teammate. We are establishing a community of practice.
-Rules/Norms
-https://github.com/DHRISMU
+* Example(s): What skills needed for supporting hands on: Overall knowledge of what is planned for the week. Able to answer administrative types questions about what attendees show expect.
 
-Learning Objectives
-An understanding of the importance of community in Digital Humanities and how that might differ from other types of scholarly communities.
-An understanding that Communities of Practice are the structure of this workshop series and means working together to improve everyone’s learning.
-Able to identify the support and instruction they will receive.
-should realize that by participating in the activities with their fellow attendees they will simulate the work done by digital humanists
-Digital Humanities is inherently interdisciplinary and collaborative/
-Attendees should come to understand how to define DH (in a way that is useful for them). This is essential because DH is so many things, what definition is useful for their research and scholarship.  learn how to read 'bibliography' of dh project to see what went into it (about page)
-
-Applied Knowledge Scenario/Context: Meet and greet. Stating goals, expectations, and motivations. Interest etc.
-
-Performance Indicator:
-Interaction will fellow attendees. Demonstrate an understanding that this is the start of a process and that community is essential for the performance of Digital humanities.
-Attendees can articulate more sophisticated questions than previous.
-
-Example(s): What skills needed for supporting hands on: Overall knowledge of what is planned for the week. Able to answer administrative types questions about what attendees show expect.
-Pedagogical overview
-
-
+* Pedagogical overview
 
 #Goals 
 
@@ -83,7 +70,8 @@ Pedagogical overview
 * By participating in the activities with their fellow attendees they will simulate the work done by digital humanists
 
 # References: 
-[Community of Practice Design Guide: A Step-by-Step Guide for Designing & Cultivating Communities of Practice in Higher Education](https://library.educause.edu/resources/2005/1/community-of-practice-design-guide-a-stepbystep-guide-for-designing-cultivating-communities-of-practice-in-higher-education) 
+[Community of Practice Design Guide: A Step-by-Step Guide for Designing & Cultivating Communities of Practice in Higher Education](https://library.educause.edu/resources/2005/1/community-of-practice-design-guide-a-stepbystep-guide-for-designing-cultivating-communities-of-practice-in-higher-education)   
+
  [Teaching in a Digital Age: Communities of practice](https://opentextbc.ca/teachinginadigitalage/chapter/6-7-experiential-learning/) 
 
 # Collaborative group set up
@@ -95,7 +83,7 @@ Pedagogical overview
 * DHRIs' goal is to create pipeline, so you know what next steps you want to take or what partners you want to seek out. there is a focus on foundational understanding, so you know what questions you want to ask. 
 What are the fundamental conceptual understandings/frameworks needed for: Computational thinking? Humanities thinking? Computation humanities/digital humanities? Collaborative work in the Humanities/ Interdisciplinary work?
 
-What does each workshop do? How does the next one build on it?
+- What does each workshop do? How does the next one build on it?
 
 * Introductions to communities of practice and how to determine what kinds of DH you want to do, and what skills that woudl necassiate or what partner you then need to seek out. (No DH project is an island, unless maybe it is a veeeeeeery small island) 
 
@@ -104,7 +92,7 @@ What does each workshop do? How does the next one build on it?
 
 * Git is logic of versioning of collaborative works as programmers do it, so you can not worry about losing data, collaborative works (coding). Also, how to FTP.   
 
-Data literacies & ethics ["Data literacy includes statistical literacy but also understanding how to work with large data sets, how they were produced, how to connect various data sets and how to interpret them.”](http://datajournalismhandbook.org/1.0/en/understanding_data_0.html)
+* Data literacies & ethics ["Data literacy includes statistical literacy but also understanding how to work with large data sets, how they were produced, how to connect various data sets and how to interpret them.”](http://datajournalismhandbook.org/1.0/en/understanding_data_0.html)
  
 * Tools: such as even Zotero or Voyant, when a tool or program asks you to set up an environemnt or chosse specific setting, you understand that a question is being asked that will shape the answers/results you get, and you can answer it, or you know that you can ask someone to help you answer.
 
@@ -128,11 +116,14 @@ What you will find in this Repository
 
 [DHRI Background](sections/DHRI.md)  
 
-[what is DH?](sections/DH.md)  
+[What is DH?](sections/DH.md)  
 
 [How do we do that?](sections/how.md)
 
 [Why coding?](sections/why.md)
+
+[Follow up]((sections/continue.md))
+
 
 
 Related Repositories:
