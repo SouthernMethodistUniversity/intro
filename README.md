@@ -14,9 +14,9 @@
 - [Work together to come to solutions (red/green post-it, can you help your tablemate)](http://miriamposner.com/blog/a-better-way-to-teach-technical-skills-to-a-group/)
 
 * Prerequisites
-- Are there any readings that should be done beforehand?
-- Any software/hardware requirements
-- Be ready! Have all of the software ready to go before the lessons!
+    * Are there any readings that should be done beforehand?
+    * Any software/hardware requirements
+    * Be ready! Have all of the software ready to go before the lessons!
 
 * Description
 - In this section, attendees should come to understand how this learning environment is designed to work. This is essential because it will let them know what to expect and how to get the most out of this experience. These are the rules, norms, and goals. While the lesson may be individualized the learning experience will be collective. By the end of the week they will not be digital humanities experts but they will be on their way to become full participants in a digital humanities community. 
@@ -122,7 +122,7 @@ What you will find in this Repository
 
 [Why coding?](sections/why.md)
 
-[Follow up]((sections/continue.md))
+[Follow up](sections/continue.md)
 
 
 
