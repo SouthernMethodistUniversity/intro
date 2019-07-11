@@ -32,19 +32,22 @@ DHRI emphasizes foundational skills because we believe that it is the most effec
 
 -----
 
-[Logistics](sections/logistics.md)  
+[Logistics](logistics.md)  
 
-[Slack](sections/Slack.md)  
+[Slack](Slack.md)  
 
-[Readings](sections/readings.md)  
+[Readings](readings.md)  
 
-[DHRI Background](sections/DHRI.md)  
+[DHRI Background](DHRI.md)  
 
-[what is DH?](sections/DH.md)  
+[What is DH?](DH.md)  
 
-[How do we do that?](sections/how.md)
+[How do we do that?](how.md)
 
-[Why coding?](sections/why.md)
+[Why coding?](why.md)
+
+[Follow up](continue.md)
+
 Written by Rafia Mirza
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
