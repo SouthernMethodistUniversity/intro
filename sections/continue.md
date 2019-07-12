@@ -2,7 +2,7 @@
 
 * How to continue building a CoP? 
 
-    * Communities 
+  * Communities 
 
 [Dedman College Interdisciplinary Institute Research Clusters](https://www.smu.edu/Dedman/DCII/Programs/ResearchClusters)
 
@@ -10,10 +10,15 @@
 
 [Digital Frontiers](https://digital-frontiers.org/)
 
-* Lessons
+  * Lessons
+
+
 [OIT](https://www.smu.edu/OIT/Training) 
+
 [LinkedIn Learning with Lynda.com @SMU](https://www.smu.edu/OIT/Services/LinkedIn)
+
 [Code Academy](https://www.codecademy.com/) 
+
 [Programming Historian ](https://programminghistorian.org/)
 
 
