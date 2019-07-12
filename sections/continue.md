@@ -1,7 +1,22 @@
 # Following up
 
-How to continue building a CoP? 
+* How to continue building a CoP? 
+
+    * Communities 
+
 [Dedman College Interdisciplinary Institute Research Clusters](https://www.smu.edu/Dedman/DCII/Programs/ResearchClusters)
+
+[Think Play Hack ](https://github.com/SouthernMethodistUniversity/think-play-hack)
+
+[Digital Frontiers](https://digital-frontiers.org/)
+
+* Lessons
+[OIT](https://www.smu.edu/OIT/Training) 
+[LinkedIn Learning with Lynda.com @SMU](https://www.smu.edu/OIT/Services/LinkedIn)
+[Code Academy](https://www.codecademy.com/) 
+[Programming Historian ](https://programminghistorian.org/)
+
+
 
 -----
 
