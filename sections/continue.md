@@ -10,7 +10,7 @@
 
 [Digital Frontiers](https://digital-frontiers.org/)
 
-  * Lessons
+   * Lessons
 
 
 [OIT](https://www.smu.edu/OIT/Training) 
@@ -21,7 +21,8 @@
 
 [Programming Historian ](https://programminghistorian.org/)
 
-
+By end of DHRI
+[How to find and assess useful tutorials for you and your students: example](http://miriamposner.com/blog/tutorials-ive-written/)
 
 -----
 
