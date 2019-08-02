@@ -1,5 +1,4 @@
-[<<< Previous](https://github.com/DHRISMU/intro) 
-[<<< Return to beginning](https://github.com/DHRISMU/intro)  
+[<<< Previous](Slack.md) | [Next >>>](DH.md) 
 
 
 # Background on Digital Humanities Research Institute (DHRI)
@@ -17,26 +16,23 @@ DHRI emphasizes foundational skills because we believe that it is the most effec
 [More about DHRI@CUNY](http://dhinstitutes.org/about.html)
 [Closing Remarks: Digital Humanities Research Institute, June 2018 by Lisa Rhody June 16, 2019] (https://www.lisarhody.com/closing-remarks-digital-humanities-research-institute-june-2018/)
 
-# DHRI@SMU Facilitators 2019
-* Rafia Mirza, Humanities Research Librarian at SMU, participated in the 2018 DHRI and is the DHRI @ SMU Coordinator
-* Note: add additional bios 
-
-# DHRI@SMU Participants 2019
-*list here
+# Welcome to the DHRI Pedagogy Showcase
+* "Expanding Communities of Practice: With generous support from the National Endowment for the Humanities (NEH), GC Digital Initiatives along with the GC Digital Fellows cultivate expanded communities of DH practice through professional development workshops, an inclusive pedagogical approach, and curricular materials for teaching foundational digital skillls.
+[The DHRI Pedagogy Showcase showcases the DHRI cohorts](https://ach.dhinstitutes.org/)
 
 # DHRI structure 
 
 * "Three structural elements are important for an effective DRI session: scoping, scaffolding, and purpose. Scoping is the art of choosing what—and especially what not—to include in a session. Scaffolding is the process of building later skill development on prior skill development. Purpose provides an answer to the participant who asks, "Why should I care about this?"
 * [more on DHRI structure](https://github.com/DHRI-Curriculum/guide/blob/master/sections/style-guide.md) 
 
-
+[<<< Previous](Slack.md) | [Next >>>](DH.md) 
 -----
+
+[Return to introduction](README.md)
 
 [Logistics](logistics.md)  
 
 [Slack](Slack.md)  
-
-[Readings](readings.md)  
 
 [DHRI Background](DHRI.md)  
 

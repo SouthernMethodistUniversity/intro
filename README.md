@@ -3,7 +3,17 @@
 
 As part of our welcome process, we’ll provide some of the history of the project, review the schedule,establish the objectives for the Institute, and ask participants to engage in an introductions and ice breaker activity. We’ll review the objectives and the schedule for the next few days, sort out pedagogical practices, and set our ambitious course for our time together. Everything we do throughout the institute is collaboratively and community-driven. 
 
-* Instructors/facilitators : Rafia & Jonathan
+# Before the session, please watch/read
+* (optional) The following links are designed to ensure that all incoming participants have a familiarity with core concepts in how computers and the internet work. They will introduce terms such as input, output, storage, CPU, hardware, software, bits, circuits, and the operating system, as well as wired, cables, wifi, packets, DNS, IP addresses, packets and routing, HTTP and HTML, encryption, public keys, and how search works. The skills workshops will begin with an assumption that you are at least familiar with these concepts and terminology.
+
+* [Code.org. Introducing How Computers Work.YouTube](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN) [Watch all 6 short videos.]
+* [What Is the Internet? YouTube](https://www.youtube.com/watch?v=Dxcc6ycZ73M&list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7) [Watch all 8 short videos.]
+
+* **(Required)**
+* We will be basing in session discussion around the following posts. **Read and watch the video before this session.**
+
+* [How Did They Make That? by Miriam Posner](https://miriamposner.com/blog/how-did-they-make-that/)
+* [How Did They Make That? The Video!by Miriam Posner](http://miriamposner.com/blog/how-did-they-make-that-the-video/)
 
 * Structure/background
     * Introductions. Open with what are participants interest/area of study 
@@ -110,8 +120,6 @@ What you will find in this Repository
 
 [Slack](sections/Slack.md)  
 
-[Readings](sections/readings.md)  
-
 [DHRI Background](sections/DHRI.md)  
 
 [What is DH?](sections/DH.md)  
@@ -129,7 +137,7 @@ Related Repositories:
 
 -----
 
-Session Leaders: [Jonathan McMichael](http://guides.smu.edu/prf.php?account_id=104877) & [Rafia Mirza ](http://guides.smu.edu/prf.php?account_id=142826/)  
+Session Leaders: [Jonathan McMichael](http://guides.smu.edu/prf.php?account_id=104877) & [Rafia Mirza](http://guides.smu.edu/prf.php?account_id=142826/)  
 Partially based on previous work by GCDI staff
 
 Written by GCDI staff & Rafia Mirza.

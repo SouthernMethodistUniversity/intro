@@ -1,10 +1,9 @@
 
-[<<< Previous](README.md)
-[<<< Return to introduction](README.md)
+[<<< Previous](DH.md) | [Next >>>](why.md) 
 
 # How did they do that? 
 
-* "Many students tell me that in order to get started with digital humanities, they’d like to have some idea of what they might do and what technical skills they might need in order to do it." [by Miriam Posner](http://miriamposner.com/blog/how-did-they-make-that/   )
+* "Many students tell me that in order to get started with digital humanities, they’d like to have some idea of what they might do and what technical skills they might need in order to do it." [by Miriam Posner](http://miriamposner.com/blog/how-did-they-make-that/)
 
 Computational & humanities thinking “how did they do that”
 How to ask questions? What questions you can ask?
@@ -71,18 +70,31 @@ Harnessing the learning power of Communities of Practice
 PMP: [Project Management Office (PMO) @SMU](https://www.smu.edu/OIT/Governance)
 
 
-COP has its own momentum. Learning occurs by interacting regularly. DH has one of these. (Rafia's DHRI Experience)
+CoP has its own momentum. Learning occurs by interacting regularly. DH has one of these. (Discuss Rafia's DHRI Experience)
 
-On paper: prototype what would be a dh project- what expertise, what software, what hardware, what questions, what people, what timeline?
+### Paper prototype activity.
+What would be a DH project you are interested in persuing?
+* What questions are you trying to explore or answer?
+* What data is needed?
+* What expertise is needed?
+* What software is needed?
+* What hardware is needed?
+* Who can you collaborate or partner with?
+* What is your timeline?
+* What is your budget?
 
+[<<< Previous](DH.md) | [Next >>>](why.md) 
+
+----
+
+What you will find in this Repository
 
 -----
+[Return to introduction](README.md)
 
 [Logistics](logistics.md)  
 
 [Slack](Slack.md)  
-
-[Readings](readings.md)  
 
 [DHRI Background](DHRI.md)  
 
