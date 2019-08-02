@@ -38,12 +38,12 @@ See also: [“Digital Humanities” In The Craft of Criticism: Critical Media St
 
 "Computational thinking is a pattern of problem solving that involves organizing and analyzing data, abstracting in search of patterns, and breaking complex problems into discrete, solvable parts (Jeannette Wing, 2006, doi: 10.1145/1118178.1118215). It enables humanities researchers to formulate new questions and to think through how to leverage both data and computational processes to explore those questions. While these skills may be taught in the context of a particular programming language, in our case Python, the patterns of thought are transferable to any language or computational process."
 [Lessons Learned from “Bridging the Gap: Women, Code, and the Digital Humanities” Reflection on 2014 ACH Microgrant by Celeste Sharpe and Jeri Wieringa](http://ach.org/blog/2015/05/06/bridging-the-gap/)
+
+
+
 [![tasks](https://imgs.xkcd.com/comics/tasks.png)](https://xkcd.com/1425/)
 
 *[Explain xkcd 1425](https://www.explainxkcd.com/wiki/index.php/1425:_Tasks)
-
-[![tasks](https://imgs.xkcd.com/comics/tasks.png)](https://xkcd.com/1425/)
-[Explain xkcd 1425] (https://www.explainxkcd.com/wiki/index.php/1425:_Tasks)
 
 #What is DH?
 *What is our working definition/concept of DH?

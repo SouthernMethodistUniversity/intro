@@ -110,6 +110,7 @@ What are the fundamental conceptual understandings/frameworks needed for: Comput
 
 * In the closing **Project Lab** we will work on applying what we have discussed  to your specific research data/questions. 
 
+[Next >>>](sections/logistics.md)  
 ----
 
 What you will find in this Repository
