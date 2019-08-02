@@ -43,8 +43,6 @@ As part of our welcome process, we’ll provide some of the history of the proje
 
 * Example(s): What skills needed for supporting hands on: Overall knowledge of what is planned for the week. Able to answer administrative types questions about what attendees show expect.
 
-* Pedagogical overview
-
 # Goals 
 
 * Digital Humanities Research Institute approach attendees should come to understand how this learning environment is designed to work. 
@@ -62,19 +60,19 @@ As part of our welcome process, we’ll provide some of the history of the proje
 * There is a lot that personal computers allow us to take for granted when we do our work; however, knowing fundamentals can help humanities scholars become more confident users and critics of digital technologies. 
 * Such knowledge leads not only to becoming a better self-teacher, but to more reflective and informed technology choices. It allows us to save time in creating projects when we know what a well-formed dataset should or could look like, when we know what the difference is between using proprietary software rather than open source, and what kind of support might be needed as projects grow. 
 
-# Why use Communities of Practice (CoP) set up?
+### Why use Communities of Practice (CoP) set up?
 
 1. CoP is the structure of this workshop series 
 2. CoP means working together to improve everyone’s learning.
 3. By participating in the activities with their fellow attendees they will simulate the work done by digital humanists
 
 
-# References: 
+### References: 
 [Community of Practice Design Guide: A Step-by-Step Guide for Designing & Cultivating Communities of Practice in Higher Education](https://library.educause.edu/resources/2005/1/community-of-practice-design-guide-a-stepbystep-guide-for-designing-cultivating-communities-of-practice-in-higher-education)   
 
 [Teaching in a Digital Age: Communities of practice](https://opentextbc.ca/teachinginadigitalage/chapter/6-7-experiential-learning/) 
 
-# Collaborative group set up
+### Collaborative group set up
 [Based on *A better way to teach technical skills to a group*](http://miriamposner.com/blog/a-better-way-to-teach-technical-skills-to-a-group/)
 
 # The pedagogical logics of each workshop session, and how we expect them to build on each other 
@@ -84,21 +82,23 @@ What are the fundamental conceptual understandings/frameworks needed for: Comput
 
     * What does each workshop do? How does the next one build on it?
 
-* Introductions to communities of practice and how to determine what kinds of DH you want to do, and what skills that woudl necassiate or what partner you then need to seek out. (No DH project is an island, unless maybe it is a veeeeeeery small island) 
+* ***Introductions to communities of practice and what is Digital Humanities?*** How do you determine what kinds of DH you want to do, and what skills does that type of DH require in terms of your skill building *or* what partners do you then need to seek out. No DH project is an island! (unless maybe it is a veeeeeeery small island) 
 
-* Command line is to understand the structure of computers and their logic. Introduces conceptualization/ helps to understand directory structure. Helps understand how scripts work, so when you set up tools in the future, you can set them up to be useful for what you are trying to do. The goal is that when you are setting up environments in something like Rstudio (and it asks you about regrex),you can make informed choices about the settings. 
+* **Command line is to understand the structure of computers and their logic.** Introduces conceptualization/ helps to understand directory structure. Helps understand how scripts work, so when you set up tools in the future, you can set them up to be useful for what you are trying to do. The goal is that when you are setting up environments in something like Rstudio (and it asks you about regrex),you can make informed choices about the settings. 
 
-* Git is logic of versioning of collaborative works as programmers do it, so you can not worry about losing data, collaborative works (coding). #Also, how to FTP.   
+* **Git is the logic of versioning of collaborative works** as programmers do it, so you can not worry about losing data, collaborative works (coding). #Also, how to FTP.   
 
-* Data literacies & ethics ["Data literacy includes statistical literacy but also understanding how to work with large data sets, how they were produced, how to connect various data sets and how to interpret them.”](http://datajournalismhandbook.org/1.0/en/understanding_data_0.html)
+* **Data literacies & ethics** ["Data literacy includes statistical literacy but also understanding how to work with large data sets, how they were produced, how to connect various data sets and how to interpret them.”](http://datajournalismhandbook.org/1.0/en/understanding_data_0.html)
  
-* Tools: such as even Zotero or Voyant, when a tool or program asks you to set up an environemnt or chosse specific setting, you understand that a question is being asked that will shape the answers/results you get, and you can answer it, or you know that you can ask someone to help you answer.
+    * **Tools** Understanding what data you need and what you want to do with that allows you to determine if you need a specifc script/library package or if you can use a DH tool for your specfic question. 
+        *  When a tool or program (such as even Zotero, Voyant) asks you to set up an environemnt or choose specific setting you are making choices that will shape your results. 
+        *  When you are setting up your tools, questions are being asked that will shape the answers/results you get. If the sert up questions don't make sense, you will have a better sense of what expertise you want to seek out to help you choose. 
 
     * Note: Skill in programming or tools only grows when you are using them to complete a project (skill building is usually project-based).
 
-* To build a complete project/expertise is beyond the scope of this institute, but we want to help you build the foundation, and perhaps even an outline of your goal.  We want to help you get to a point where you are comfortable figuring it (stack exchange) or you know when you have a question, how to phrase it and find the expertise you want to draw upon (community of practice) 
+* To build a complete project/expertise is beyond the scope of this institute, but we want to help you build the foundation, and perhaps even an outline of your goal.  We want to help you get to a point where you are comfortable figuring it out (stack exchange) or you know when you have a question, how to phrase it and find the expertise you want to draw upon (community of practice) 
 
-* In the closing Project Lab we will work on applying what we have discussed  to your specific research data/questions. 
+* In the closing **Project Lab** we will work on applying what we have discussed  to your specific research data/questions. 
 
 ----
 
