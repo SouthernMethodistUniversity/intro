@@ -10,7 +10,7 @@ As part of our welcome process, we’ll provide some of the history of the proje
   * [What Is the Internet? YouTube](https://www.youtube.com/watch?v=Dxcc6ycZ73M&list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7) [Watch all 8 short videos.]
 
 # **Required**
-* We will be basing in session discussion around the following posts. **Read and watch the video before this session.**
+* We will be basing in session discussion around the following posts. **Read the following post and watch the video before this session.**
 
 * ***[How Did They Make That? by Miriam Posner](https://miriamposner.com/blog/how-did-they-make-that/)***
 *  ***[How Did They Make That? The Video!by Miriam Posner](http://miriamposner.com/blog/how-did-they-make-that-the-video/)***
