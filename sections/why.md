@@ -8,6 +8,8 @@
 You don't need to be become fluent if not the focus of your interest, but helpful to have reading fluency, like any other language that is an important part of your research. 
 Also like any other language, use will help you retain and gain knowledge. 
 
+Reoccurring question to keep in mind: What are the affordances of choosing this path? What are the limitations? 
+
 [<<< Previous](how.md) | [Next >>>](continue.md) 
 -----
 [Return to introduction](README.md)

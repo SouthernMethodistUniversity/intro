@@ -1,7 +1,7 @@
 
 [<<< Previous](DHRI.md) | [Next >>>](how.md) 
 
-# What is Digital humanities?  
+# What is Digital Humanities?  
 * Digital humanities is inherently collaborative 
 * Digital humanities as interdisciplinary field 
 * What is the importance of community in Digital Humanities? How that might differ from other types of scholarly communities.
@@ -53,7 +53,7 @@ See also: [“Digital Humanities” In The Craft of Criticism: Critical Media St
 * DH is not only about tools. It is community.
 * Implication of this way of performing research: The change of authorship, credit, culture, etc
 
-## How do we come up with definitions of DH that is useful? what kind of questions do you ask?
+## How do we come up with definitions of DH that is useful? What kind of questions do you ask?
 * Humanities thinking/questions, computational thinking, collaborative practices
 * Introduce: DH, computational thinking, project scoping etc.
 * What is DH?
