@@ -67,26 +67,7 @@ https://dancohen.org/2005/11/21/do-apis-have-a-place-in-the-digital-humanities/.
 
 [<<< Previous](why.md) 
 -----
-[Return to introduction](README.md)
+[Return to introduction](https://github.com/DHRISMU/intro)
 
-[Logistics](logistics.md)  
-
-[Slack](Slack.md)  
-
-[DHRI Background](DHRI.md)  
-
-[What is DH?](DH.md)  
-
-[How do we do that?](how.md)
-
-[Why coding?](why.md)
-
-[Follow up](continue.md)
-
-Written by Rafia Mirza
-
-[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
-
-[ When sharing this material or derivative works, preserve this paragraph, changing only the title of the derivative work, or provide comparable attribution.
 
   

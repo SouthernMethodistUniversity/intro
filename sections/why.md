@@ -12,20 +12,5 @@ Reoccurring question to keep in mind: What are the affordances of choosing this 
 
 [<<< Previous](how.md) | [Next >>>](continue.md) 
 -----
-[Return to introduction](README.md)
+[Return to introduction](https://github.com/DHRISMU/intro)
 
-[Logistics](logistics.md)  
-
-[Slack](Slack.md)  
-
-[Readings](readings.md)  
-
-[DHRI Background](DHRI.md)  
-
-[What is DH?](DH.md)  
-
-[How do we do that?](how.md)
-
-[Why coding?](why.md)
-
-[Follow up](continue.md)

@@ -66,21 +66,7 @@ See also: [“Digital Humanities” In The Craft of Criticism: Critical Media St
 [<<< Previous](DHRI.md) | [Next >>>](how.md) 
 
 -----
-[Return to introduction](README.md)
-
-[Logistics](logistics.md)  
-
-[Slack](Slack.md)  
-
-[DHRI Background](DHRI.md)  
-
-[What is DH?](DH.md)  
-
-[How do we do that?](how.md)
-
-[Why coding?](why.md)
-
-[Follow up](continue.md)
+[Return to introduction](https://github.com/DHRISMU/intro)
 
 Written by Rafia Mirza
 
