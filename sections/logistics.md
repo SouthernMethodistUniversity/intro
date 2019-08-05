@@ -8,7 +8,8 @@
 
 # Schedule
 
- *[Schedule](https://github.com/DHRISMU/intro/blob/master/DHRIschedule.pdf)
+ * [Schedule](https://github.com/DHRISMU/intro/blob/master/DHRIschedule.pdf)
+
     * Note: Minor adjustments to length of sessions may be made, and breaks are going to be added.
  
 ## Instructors for DHRI@SMU 2019
