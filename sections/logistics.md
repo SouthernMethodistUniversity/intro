@@ -4,7 +4,8 @@
 
 We will be meeting in Fondren Library (red) room 323.   
 
- **link to schedule forthcoming**   
+ * [Schedule](https://github.com/DHRISMU/intro/blob/master/DHRIschedule.pdf)
+    * Note: Minor adjustments to length of sessions may be made, and breaks are going to be added.
  
 
 # Instructors for DHRI@SMU 2019
