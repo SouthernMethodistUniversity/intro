@@ -2,20 +2,23 @@
 
 # Logistics
 
-We will be meeting in Fondren Library (red) room 323.   
+## Location
 
- * [Schedule](https://github.com/DHRISMU/intro/blob/master/DHRIschedule.pdf)
+* We will be meeting in Fondren Library (red) room 323.   
+
+# Schedule
+
+ *[Schedule](https://github.com/DHRISMU/intro/blob/master/DHRIschedule.pdf)
     * Note: Minor adjustments to length of sessions may be made, and breaks are going to be added.
  
-
-# Instructors for DHRI@SMU 2019
+## Instructors for DHRI@SMU 2019
 * [Rafia Mirza, Humanities Librarian](http://guides.smu.edu/prf.php?account_id=142826)
 * [Jonathan McMichael, User Experience Librarian](http://guides.smu.edu/prf.php?account_id=104877)
 * [Eric Godat, Data Science Research Applications Developer](https://www.smu.edu/OIT/research)
 * [Aren Cambre, Director, Web Application Services](https://www.smu.edu/OIT/research)
 * [Jessie Zarazaga, Project Director, Initiative for Spatial Literacy](https://www.smu.edu/libraries/fondren/services/gis)
 
-# Participant cohort for DHRI@SMU 2019
+## Participant cohort for DHRI@SMU 2019
 * Arvid Nelsen, Bridwell Library
 * Emily Grubbs, Bywaters Special Collections 
 * Aria Cabot, Director, Teaching and Technology Center & Adjunct Lecturer of Italian, World Languages and Literatures
