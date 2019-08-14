@@ -4,7 +4,15 @@
 
 ## Location
 
-* We will be meeting in Fondren Library (red) room 323.   
+* We will be meeting in Fondren Library (red) room 323.   If you are nor sure about where it is located, please ask at the main desk as you enter, they can direct you. 
+
+### Parking
+* On the [campus parking map](https://www.smu.edu/-/media/Site/ParkNPony/Maps/2019-20-Campus-Parking-Map.pdf?la=en) Fondren is building #40, and it shows the parking lots near us, they are all coded to different parking passes
+* If you do not have a parking pass, [this page has information on guest parking](https://www.smu.edu/BusinessFinance/CampusServices/ParkingAndIDCardServices/parkingservices/Event-and-Guest-Parking) 
+and [this page has information on the DART bus](https://www.smu.edu/BusinessFinance/CampusServices/ParkingAndIDCardServices/Information/ParkingAlternatives).
+
+## Food 
+* Breakfast snacks (bagels, fruit & coffee) and lunch at Umphrey Lee are provided. 
 
 # Schedule
 
