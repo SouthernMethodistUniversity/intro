@@ -31,7 +31,6 @@
 * Summer Hamilton, Graduate student, English
 * Kelsey Spinnato, Graduate student, Religious Studies
 * Brianna Hogg, Graduate student, History
-* Katherine Linares, Graduate student, Civil and Environmental Engineering				 
 
 
 [Next >>>](Slack.md)  
