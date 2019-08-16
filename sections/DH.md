@@ -44,7 +44,7 @@ See also: [“Digital Humanities” In The Craft of Criticism: Critical Media St
 
 [![tasks](https://imgs.xkcd.com/comics/tasks.png)](https://xkcd.com/1425/)
 
-*[Explain xkcd 1425](https://www.explainxkcd.com/wiki/index.php/1425:_Tasks)
+* [Explain xkcd 1425](https://www.explainxkcd.com/wiki/index.php/1425:_Tasks)
 
 # What is DH?
 

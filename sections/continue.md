@@ -59,8 +59,9 @@
 * [“OKCupid Data Release Fiasco: It’s Time to Rethink Ethics Education - Annette Markham | Social Media, Methods, and Ethics.” Annette Markham, 19 May 2016](https://socialmediacollective.org/2016/05/18/the-okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/)
 [Zook, Matthew et al. “Ten simple rules for responsible big data research.” PLoS computational biology vol. 13,3 e1005399. 30 Mar. 2017, [doi:10.1371/journal.pcbi.1005399](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5373508/)
 
-#Suggestions for the future
-[Guides & Tutorials by GCDI Fellows](https://gcdi.commons.gc.cuny.edu/guides-tutorials/)
+# Suggestions for the future
+* [Guides & Tutorials by GCDI Fellows](https://gcdi.commons.gc.cuny.edu/guides-tutorials/)
+
 
 [<<< Previous](why.md) 
 -----
