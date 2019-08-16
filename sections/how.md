@@ -27,12 +27,14 @@ Like reading a bibliography
 * What expertise is needed? Individual expertise may vary.
 * What resources are needed?
 * What questions are you trying to ask or answer?
-This is meant to be generative 
-**[Technological Pedagogical and Content Knowledge (TPACK)](http://cristurple.blogspot.com/p/tpack.html)**
+*   This is meant to be generative 
+
+#### **[Technological Pedagogical and Content Knowledge (TPACK)](http://cristurple.blogspot.com/p/tpack.html)**
+[![tasks](https://imgs.xkcd.com/comics/TPACK.png)](http://cristurple.blogspot.com/p/tpack.html)
 
 #### System thinking: about affordances and limitations.
-*Focus on what is being hidden from you.
-*  What are the differecnes between different citations managers: Refworks vs Zotero?
+* Focus on what is being hidden from you.
+*   What are the differences between different citations managers: Refworks vs Zotero?
 * Precision/control vs ease of use.
 * What ***affordances & limitations*** does each path offer?
 
@@ -41,10 +43,10 @@ This is meant to be generative
 * [Legitimate Peripheral Practitioner (LPP)](https://en.wikipedia.org/wiki/Legitimate_peripheral_participation) – Apprentice models.
 * Becoming skillful and identity are the same process.
 
-# Values & Ethics
+## Values & Ethics
 [Repository: Ethics for Digital Projects and Research](https://github.com/DHRISMU/ethics)
 
-# Labor & Attribution 
+## Labor & Attribution 
 * [Collaborators’ Bill of Rights](http://mcpress.media-commons.org/offthetracks/part-one-models-for-collaboration-career-paths-acquiring-institutional-support-and-transformation-in-the-field/a-collaboration/collaborators%E2%80%99-bill-of-rights/)
 
 "All kinds of work on a project are equally deserving of credit (though the amount of work and expression of credit may differ). And all collaborators should be empowered to take credit for their work." 
@@ -53,7 +55,7 @@ This is meant to be generative
 
 "Collaborations between students and more experienced digital humanities practitioners should benefit everyone." 
 
-# Group work & Project planning
+## Group work & Project planning
 
 Ask for feedback.
 Individual expertise may vary.
@@ -79,7 +81,7 @@ CoP has its own momentum. Learning occurs by interacting regularly. DH has one o
 * PMP: [Project Management Office (PMO) @SMU](https://www.smu.edu/OIT/Governance)
 
 
-### Paper prototype activity.
+# Paper prototype activity.
 What would be a DH project you are interested in persuing?
 * What questions are you trying to explore or answer?
 * What data is needed?

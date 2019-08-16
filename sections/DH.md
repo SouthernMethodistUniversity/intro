@@ -20,7 +20,7 @@ See also: [“Digital Humanities” In The Craft of Criticism: Critical Media St
 * "This is an overview, history, and typology of digital humanities within the field of media studies. It also contains a step-by-step walkthrough of a digital humanities project I created. I think this will be really helpful for anyone trying to figure out what the heck DH is and how people go about building DH projects."
 * ***"What should the humanities scholar’s relationship with technology be? Where do humanism and digital technology collide? And where might the intersection of the two produce ideas that—like any good scholarship—show us some kind of beauty, meaning, and order to the world?"***
 
-# What isn't DH?
+## What isn't DH?
 
 *"If all this can be DH, maybe we want to say, fine, what isn't DH? I find that question difficult to answer concisely or usefully?"*
 [A Digital Humanities What, Why, & How by  Dr. Amanda Visconti](https://www.hastac.org/blogs/amanda-visconti/2016/07/25/digital-humanities-what-why-how-dlf-eresearch-network-talk#header-c20) 
