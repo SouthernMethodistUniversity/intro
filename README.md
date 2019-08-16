@@ -5,7 +5,7 @@ As part of our welcome process, we’ll provide some of the history of the proje
 
 # Before the session, please watch/read
 ## Optional
-*The following links are designed to ensure that all incoming participants have a familiarity with core concepts in how computers and the internet work. They will introduce terms such as input, output, storage, CPU, hardware, software, bits, circuits, and the operating system, as well as wired, cables, wifi, packets, DNS, IP addresses, packets and routing, HTTP and HTML, encryption, public keys, and how search works. The skills workshops will begin with an assumption that you are at least familiar with these concepts and terminology.
+* The following links are designed to ensure that all incoming participants have a familiarity with core concepts in how computers and the internet work. They will introduce terms such as input, output, storage, CPU, hardware, software, bits, circuits, and the operating system, as well as wired, cables, wifi, packets, DNS, IP addresses, packets and routing, HTTP and HTML, encryption, public keys, and how search works. The skills workshops will begin with an assumption that you are at least familiar with these concepts and terminology.
   * [Code.org. Introducing How Computers Work.YouTube](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN) [Watch all 6 short videos.]
   * [What Is the Internet? YouTube](https://www.youtube.com/watch?v=Dxcc6ycZ73M&list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7) [Watch all 8 short videos.]
 
@@ -26,7 +26,7 @@ As part of our welcome process, we’ll provide some of the history of the proje
     * Any software/hardware requirements
     * Be ready! Have all of the software ready to go before the lessons!
 
-* Description
+### Description
 - In this section, attendees should come to understand how this learning environment is designed to work. This is essential because it will let them know what to expect and how to get the most out of this experience. These are the rules, norms, and goals. While the lesson may be individualized the learning experience will be collective. By the end of the week they will not be digital humanities experts but they will be on their way to become full participants in a digital humanities community. 
 * Context/Mission:Pilot Program
     * Sore vs Pain: A low level of confusion will be the norm.
@@ -34,8 +34,8 @@ As part of our welcome process, we’ll provide some of the history of the proje
     * Lessons are a mix of doing and listening: Instruction is happening on your screen and through the instructor.
     * We are doing this learning together.
     * Ask your group member
-    * Ask your supporters. STAR students.
-    * This is made for repeated practice use when necessary
+    * Ask your supporters. 
+    * This is made for repeated practice, use when necessary
     * Make the practice authentic (the challenges are designed to actually challenge you)
     * The sessions should build on each other. If they seem unrelated ask for clarification. Practice being a good teammate. We are establishing a community of practice.
 
@@ -62,7 +62,7 @@ As part of our welcome process, we’ll provide some of the history of the proje
 * By the end of the week they will not be digital humanities experts but they will be on their way to become full participants in a digital humanities community.
 
 ## Pedagogical approach
-"The DHRI curriculum places great emphasis on foundational technical skills, and roughly one-third of all sessions at the Institute could be described as foundational. ... The difference between an instrumental approach and a foundational approach is often not immediately appreciated by participants, but over time they begin to change their minds. Although an instrumental approach satisfies a researcher’s most immediate need, a foundational approach takes into consideration the long term impact that learning core skills will have for the future professional and research needs of the scholar.
+"The DHRI curriculum places great emphasis on foundational technical skills, and roughly one-third of all sessions at the Institute could be described as foundational. ... The difference between an instrumental approach and a foundational approach is often not immediately appreciated by participants, but over time they begin to change their minds. Although an instrumental approach satisfies a researcher’s most immediate need, a foundational approach takes into consideration the long term impact that learning core skills will have for the future professional and research needs of the scholar."
 
 [DHRI: Notes toward our pedagogical approach by Lisa Rhody, June 17, 2019](https://www.lisarhody.com/dhri-notes-toward-our-pedagogical-approach/)
 
@@ -77,7 +77,7 @@ As part of our welcome process, we’ll provide some of the history of the proje
 3. By participating in the activities with their fellow attendees they will simulate the work done by digital humanists
 
 
-### References: 
+### References
 [Community of Practice Design Guide: A Step-by-Step Guide for Designing & Cultivating Communities of Practice in Higher Education](https://library.educause.edu/resources/2005/1/community-of-practice-design-guide-a-stepbystep-guide-for-designing-cultivating-communities-of-practice-in-higher-education)   
 
 [Teaching in a Digital Age: Communities of practice](https://opentextbc.ca/teachinginadigitalage/chapter/6-7-experiential-learning/) 
@@ -98,7 +98,7 @@ What are the fundamental conceptual understandings/frameworks needed for: Comput
 
 * **Git is the logic of versioning of collaborative works** as programmers do it, so you can not worry about losing data, collaborative works (coding). #Also, how to FTP.   
 
-* **Data literacies & ethics** ["Data literacy includes statistical literacy but also understanding how to work with large data sets, how they were produced, how to connect various data sets and how to interpret them.”](http://datajournalismhandbook.org/1.0/en/understanding_data_0.html)
+* **Data literacies** ["Data literacy includes statistical literacy but also understanding how to work with large data sets, how they were produced, how to connect various data sets and how to interpret them.”](http://datajournalismhandbook.org/1.0/en/understanding_data_0.html). When we talk about data in the humanities, what do we mean? Big? Smart? Clean? Messy? 
  
     * **Tools** Understanding what data you need and what you want to do with that allows you to determine if you need a specifc script/library package or if you can use a DH tool for your specfic question. 
         *  When a tool or program (such as even Zotero, Voyant) asks you to set up an environemnt or choose specific setting you are making choices that will shape your results. 
@@ -139,10 +139,9 @@ Related Repositories:
 -----
 
 Session Leaders: [Jonathan McMichael](http://guides.smu.edu/prf.php?account_id=104877) & [Rafia Mirza](http://guides.smu.edu/prf.php?account_id=142826/)  
-Partially based on previous work by GCDI staff
 
-Written by GCDI staff & Rafia Mirza.
-Our curriculum is based on the Digital Research Institute (DHRI) Curriculum by Graduate Center Digital Initiatives.   
+Written by Rafia Mirza.
+Partially based on previous work by GCDI staff. Our curriculum is based on the Digital Research Institute (DHRI) Curriculum by Graduate Center Digital Initiatives.   
 [This repository contains information for using and contributing to the Digital Humanities Research Institute curriculum](https://github.com/DHRI-Curriculum/guide) 
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
