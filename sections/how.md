@@ -30,7 +30,8 @@ Like reading a bibliography
 *   This is meant to be generative 
 
 #### **[Technological Pedagogical and Content Knowledge (TPACK)](http://cristurple.blogspot.com/p/tpack.html)**
-[![tasks](https://imgs.xkcd.com/comics/TPACK.png)](http://cristurple.blogspot.com/p/tpack.html)
+
+[![tasks](https://github.com/DHRISMU/intro/blob/master/images/tpack.jpg)](http://cristurple.blogspot.com/p/tpack.html)
 
 #### System thinking: about affordances and limitations.
 * Focus on what is being hidden from you.
