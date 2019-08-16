@@ -46,6 +46,7 @@ Like reading a bibliography
 
 ## Values & Ethics
 [Repository: Ethics for Digital Projects and Research](https://github.com/DHRISMU/ethics)
+[Activity](https://github.com/DHRISMU/ethics/blob/master/sections/beyond.md#activity)
 
 ## Labor & Attribution 
 * [Collaborators’ Bill of Rights](http://mcpress.media-commons.org/offthetracks/part-one-models-for-collaboration-career-paths-acquiring-institutional-support-and-transformation-in-the-field/a-collaboration/collaborators%E2%80%99-bill-of-rights/)
