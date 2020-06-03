@@ -1,4 +1,4 @@
-# Welcome and Introduction to DHRI@SMU 2019
+# Welcome and Introduction to DHRI@SMU 2020
 * A Foundational Approach to Digital Humanities Research
 
 As part of our welcome process, we’ll provide some of the history of the project, review the schedule,establish the objectives for the Institute, and ask participants to engage in an introductions and ice breaker activity. We’ll review the objectives and the schedule for the next few days, sort out pedagogical practices, and set our ambitious course for our time together. Everything we do throughout the institute is collaboratively and community-driven. 
