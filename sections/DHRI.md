@@ -1,4 +1,4 @@
-[<<< Previous](Slack.md) | [Next >>>](DH.md) 
+[<<< Previous](logistics.md) | [Next >>>](DH.md) 
 
 
 # Background on Digital Humanities Research Institute (DHRI)

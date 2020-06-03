@@ -15,11 +15,13 @@ As part of our welcome process, we’ll provide some of the history of the proje
 * ***[How Did They Make That? by Miriam Posner](https://miriamposner.com/blog/how-did-they-make-that/)***
 *  ***[How Did They Make That? The Video!by Miriam Posner](http://miriamposner.com/blog/how-did-they-make-that-the-video/)***
 
+* [Zoom](https://github.com/SouthernMethodistUniversity/intro.git) for discussion. If you have not used Zoom before, please make an [appointment with Rafia](https://libcal.smu.edu/appointments/?g=2334) before DHRI to become familier with Zoom.  
+
 * Structure/background
     * Introductions. Open with what are participants interest/area of study 
-        * Drawing activity.
-    * Sit in groups at tables
-        * [Work together to come to solutions (red/green post-it, can you help your tablemate)](http://miriamposner.com/blog/a-better-way-to-teach-technical-skills-to-a-group/)
+    We will be using [Zoom](https://github.com/SouthernMethodistUniversity/intro.git) for discussion 
+        * Drawing activity.  We will use [draw.chat](https://draw.chat/)
+    * We will work together to come to solutions (make use of chat featrue in zoom, breakout rooms)
 
 * Prerequisites
     * Are there any readings that should be done beforehand?
