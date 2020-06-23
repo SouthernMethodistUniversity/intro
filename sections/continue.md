@@ -62,6 +62,13 @@
 # Suggestions for the future
 * [Guides & Tutorials by GCDI Fellows](https://gcdi.commons.gc.cuny.edu/guides-tutorials/)
 
+### References for Community of Practice
+[Community of Practice Design Guide: A Step-by-Step Guide for Designing & Cultivating Communities of Practice in Higher Education](https://library.educause.edu/resources/2005/1/community-of-practice-design-guide-a-stepbystep-guide-for-designing-cultivating-communities-of-practice-in-higher-education)   
+
+[Teaching in a Digital Age: Communities of practice](https://opentextbc.ca/teachinginadigitalage/chapter/6-7-experiential-learning/) 
+
+### Collaborative group set up
+[Based on *A better way to teach technical skills to a group*](http://miriamposner.com/blog/a-better-way-to-teach-technical-skills-to-a-group/)
 
 [<<< Previous](why.md) 
 -----

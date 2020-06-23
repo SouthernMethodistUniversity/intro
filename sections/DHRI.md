@@ -1,4 +1,4 @@
-[<<< Previous](logistics.md) | [Next >>>](DH.md) 
+[<<< Previous](hi.md) | [Next >>>](DH.md) 
 
 
 # Background on Digital Humanities Research Institute (DHRI)
@@ -25,7 +25,6 @@ DHRI emphasizes foundational skills because we believe that it is the most effec
 * "Three structural elements are important for an effective DRI session: scoping, scaffolding, and purpose. Scoping is the art of choosing what—and especially what not—to include in a session. Scaffolding is the process of building later skill development on prior skill development. Purpose provides an answer to the participant who asks, "Why should I care about this?"
 * [more on DHRI structure](https://github.com/DHRI-Curriculum/guide/blob/master/sections/style-guide.md) 
 
-[<<< Previous](Slack.md) | [Next >>>](DH.md) 
 -----
 
 [Return to introduction](https://github.com/DHRISMU/intro)

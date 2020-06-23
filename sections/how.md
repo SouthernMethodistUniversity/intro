@@ -1,9 +1,15 @@
 
-[<<< Previous](DH.md) | [Next >>>](why.md) 
+[<<< Previous](DH.md) | [Next >>>](continue.md) 
 
 # How did they do that? 
 
 * "Many students tell me that in order to get started with digital humanities, they’d like to have some idea of what they might do and what technical skills they might need in order to do it." [by Miriam Posner](http://miriamposner.com/blog/how-did-they-make-that/)
+
+* We will be basing in session discussion around the following posts. **Read the following post and watch the video before this session.**
+We have allotted 1 hour to watch & read the following, but you can 
+* ***[How Did They Make That? by Miriam Posner](https://miriamposner.com/blog/how-did-they-make-that/)***
+*  ***[How Did They Make That? The Video!by Miriam Posner](http://miriamposner.com/blog/how-did-they-make-that-the-video/)*** 
+* [Discussion handout](https://smu.box.com/s/valmcgnur9lwwffiqoiqc2uad3zl866s)
 
 ## Computational & humanities thinking “how did they do that”
 * How to ask questions? What questions you can ask?
@@ -80,23 +86,17 @@ CoP has its own momentum. Learning occurs by interacting regularly. DH has one o
 
 * [Project Charter](https://stewartvarner.com/2014/05/project-charter/) 
 * [MOU](https://rc.library.uta.edu/uta-ir/handle/10106/25646)
-* PMP: [Project Management Office (PMO) @SMU](https://www.smu.edu/OIT/Governance)
+* PMP:[Project Management Office (PMO) @SMU](https://www.smu.edu/OIT/Governance)
 
 
-# Paper prototype activity.
-What would be a DH project you are interested in persuing?
-* What questions are you trying to explore or answer?
-* What data is needed?
-* What expertise is needed?
-* What software is needed?
-* What hardware is needed?
-* Who can you collaborate or partner with?
-* What is your timeline?
-* What is your budget?
+***Reoccurring question to keep in mind: What are the affordances of choosing this path? What are the limitations?*** 
 
-[<<< Previous](DH.md) | [Next >>>](why.md) 
+* You can use a project charter as a lightweight example of collaborative breainstorming and documentation.
+
+# Activity
+[link to Project Charter handout](https://smu.box.com/s/kc63uvd6dcob4ksfg6hibzjtnyes6iw6)
+  
 
 ----
 [Return to introduction](https://github.com/DHRISMU/intro)
-
 

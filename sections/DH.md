@@ -35,11 +35,8 @@ See also: [“Digital Humanities” In The Craft of Criticism: Critical Media St
 ## What is computational thinking ?
 
 * Command thinking (Intro to computer science, STS, etc.) 
-(Add link to artificial unintelligence here, think like a computer/ like in search, think like a database)
-
 "Computational thinking is a pattern of problem solving that involves organizing and analyzing data, abstracting in search of patterns, and breaking complex problems into discrete, solvable parts (Jeannette Wing, 2006, doi: 10.1145/1118178.1118215). It enables humanities researchers to formulate new questions and to think through how to leverage both data and computational processes to explore those questions. While these skills may be taught in the context of a particular programming language, in our case Python, the patterns of thought are transferable to any language or computational process."
 [Lessons Learned from “Bridging the Gap: Women, Code, and the Digital Humanities” Reflection on 2014 ACH Microgrant by Celeste Sharpe and Jeri Wieringa](http://ach.org/blog/2015/05/06/bridging-the-gap/)
-
 
 
 [![tasks](https://imgs.xkcd.com/comics/tasks.png)](https://xkcd.com/1425/)
@@ -58,19 +55,12 @@ See also: [“Digital Humanities” In The Craft of Criticism: Critical Media St
 * Humanities thinking/questions, computational thinking, collaborative practices
 * Introduce: DH, computational thinking, project scoping etc.
 * What is DH?
-    * There are DH tools, but it is not about just learning a few. (Many are open sourcem often change)
+    * There are DH tools, but it is not about just learning a few. (Many are open source, often change)
 * Yack vs hack
 * Big tent vs tools and archives 
 * Having enough knowledge to make choices
 
 
-[<<< Previous](DHRI.md) | [Next >>>](how.md) 
 
 -----
 [Return to introduction](https://github.com/DHRISMU/intro)
-
-Written by Rafia Mirza
-
-[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
-
-[ When sharing this material or derivative works, preserve this paragraph, changing only the title of the derivative work, or provide comparable attribution.
