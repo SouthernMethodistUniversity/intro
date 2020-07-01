@@ -20,9 +20,8 @@ Estimated time: 30 minutes
     * Affordances & limitations applies at every step, every time you make a choice it precludes other options.  
 
 
-    
-
+[<<< Previous](logistics.md) | [Next >>>](DHRI.md)   
 ----
-[Return to introduction](https://github.com/DHRISMU/intro)
+[Return to introduction](https://github.com/SouthernMethodistUniversity/intro)
 
 

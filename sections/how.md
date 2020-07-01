@@ -6,7 +6,6 @@
 * "Many students tell me that in order to get started with digital humanities, they’d like to have some idea of what they might do and what technical skills they might need in order to do it." [by Miriam Posner](http://miriamposner.com/blog/how-did-they-make-that/)
 
 * We will be basing in session discussion around the following posts. **Read the following post and watch the video before this session.**
-We have allotted 1 hour to watch & read the following, but you can 
 * ***[How Did They Make That? by Miriam Posner](https://miriamposner.com/blog/how-did-they-make-that/)***
 *  ***[How Did They Make That? The Video!by Miriam Posner](http://miriamposner.com/blog/how-did-they-make-that-the-video/)*** 
 * [Discussion handout](https://smu.box.com/s/valmcgnur9lwwffiqoiqc2uad3zl866s)
@@ -65,29 +64,11 @@ Like reading a bibliography
 
 ## Group work & Project planning
 
-Ask for feedback.
-Individual expertise may vary.
-Ask for feedback.
-Appreciate expertise.
-Develop a shared language. Know enough to be fluent.
-Learning is an option.
-Collaboration is the key to moving forward. Solo projects are unicorns. (why everyone hates groups projects).
-Expectations define.
-Involvement vs investment
-Make your group adaptive.
-Meeting are also a tool.
-Structure helps productivity.
-Confirming mutual understanding. Consent culture.
-Documentation is important.
-Harnessing the learning power of Communities of Practice
-CoP has its own momentum. Learning occurs by interacting regularly. DH has one of these. (Discuss Rafia's DHRI Experience)
-
 #### Project Planning Models 
 
 * [Project Charter](https://stewartvarner.com/2014/05/project-charter/) 
 * [MOU](https://rc.library.uta.edu/uta-ir/handle/10106/25646)
 * PMP:[Project Management Office (PMO) @SMU](https://www.smu.edu/OIT/Governance)
-
 
 ***Reoccurring question to keep in mind: What are the affordances of choosing this path? What are the limitations?*** 
 
@@ -98,5 +79,5 @@ CoP has its own momentum. Learning occurs by interacting regularly. DH has one o
   
 
 ----
-[Return to introduction](https://github.com/DHRISMU/intro)
+[Return to introduction](https://github.com/SouthernMethodistUniversity/intro)
 

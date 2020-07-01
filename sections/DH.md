@@ -44,23 +44,10 @@ See also: [“Digital Humanities” In The Craft of Criticism: Critical Media St
 * [Explain xkcd 1425](https://www.explainxkcd.com/wiki/index.php/1425:_Tasks)
 
 # What is DH?
-
+* How do we come up with definitions of DH that is useful? What kind of questions do you ask?
 * What is our working definition/concept of DH?
-* What is not?
-* This concept is established collaboratively and will evolve during your experience
-* DH is not only about tools. It is community.
-* Implication of this way of performing research: The change of authorship, credit, culture, etc
+* What falls outside but is a necessary precondition?
 
-## How do we come up with definitions of DH that is useful? What kind of questions do you ask?
-* Humanities thinking/questions, computational thinking, collaborative practices
-* Introduce: DH, computational thinking, project scoping etc.
-* What is DH?
-    * There are DH tools, but it is not about just learning a few. (Many are open source, often change)
-* Yack vs hack
-* Big tent vs tools and archives 
-* Having enough knowledge to make choices
-
-
-
+[<<< Previous](DHRI.md) | [Next >>>](how.md) 
 -----
-[Return to introduction](https://github.com/DHRISMU/intro)
+[Return to introduction](https://github.com/SouthernMethodistUniversity/intro)
