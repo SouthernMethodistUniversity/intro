@@ -78,6 +78,8 @@ Like reading a bibliography
 [link to Project Charter handout](https://smu.box.com/s/kc63uvd6dcob4ksfg6hibzjtnyes6iw6)
   
 
+[<<< Previous](DH.md) | [Next >>>](continue.md) 
+
 ----
 [Return to introduction](https://github.com/SouthernMethodistUniversity/intro)
 

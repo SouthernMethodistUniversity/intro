@@ -2,7 +2,7 @@
 * A Foundational Approach to Digital Humanities Research
 
 ## Before DHRI begins, please do the following
-* We will be using [Zoom](https://github.com/SouthernMethodistUniversity/intro.git) for discussion.
+* We will be using [Zoom](https://www.smu.edu/OIT/services/zoom) for discussion.
     * If you have not used Zoom before, please make an [appointment with Rafia](https://libcal.smu.edu/appointments/?g=2334) before DHRI to become familier with Zoom.  
 
 ### Optional 

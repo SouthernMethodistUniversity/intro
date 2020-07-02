@@ -49,5 +49,6 @@ See also: [“Digital Humanities” In The Craft of Criticism: Critical Media St
 * What falls outside but is a necessary precondition?
 
 [<<< Previous](DHRI.md) | [Next >>>](how.md) 
+
 -----
 [Return to introduction](https://github.com/SouthernMethodistUniversity/intro)

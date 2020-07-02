@@ -26,21 +26,19 @@
 
 [Programming Historian ](https://programminghistorian.org/)
 
-
 ## By end of DHRI
 [How to find and assess useful tutorials for you and your students: example](http://miriamposner.com/blog/tutorials-ive-written/)
 
+# What is DH?
 
-# Suggested follow up readings.
+[Debates in the Digital Humanities Landing page](https://dhdebates.gc.cuny.edu/projects/all)
 
- * [Debates in the Digital Humanities Landing page](https://dhdebates.gc.cuny.edu/projects/all)
+[Getting Started -Strategies for DH Professional Development](http://blog.paigemorgan.net/articles/20/getting-started.html)
 
-* [Broussard, Meredith. “Hello, World.” Artificial Unintelligence: How Computers Misunderstand the World. The MIT Press: Cambridge, MA, 2018. 13-30.](https://smu.primo.exlibrisgroup.com/permalink/01SMU_INST/12013t3/pq_ebook_centralEBC5355856) 
+[What is DH ?](https://firstmonday.org/ojs/index.php/fm/article/view/3198/2628)
 
-* Discussion on github and pedagogy. 
-* [Croxall, Brian. “Forking Your Syllabus.” The Chronicle of Higher Education Blogs: ProfHacker, 22 Mar. 2012](https://www.chronicle.com/blogs/profhacker/forking-your-syllabus/39137) [Croxall’s introduction demonstrates how version control and sharing platforms can be useful to humanists from both a research and pedagogical perspective.]
-
-
+[Day in the life](http://www.digitalhumanities.org/dhq/vol/6/2/000123/000123.html)
+ 
 ### References for Community of Practice
 [Community of Practice Design Guide: A Step-by-Step Guide for Designing & Cultivating Communities of Practice in Higher Education](https://library.educause.edu/resources/2005/1/community-of-practice-design-guide-a-stepbystep-guide-for-designing-cultivating-communities-of-practice-in-higher-education)   
 
@@ -50,6 +48,7 @@
 [Based on *A better way to teach technical skills to a group*](http://miriamposner.com/blog/a-better-way-to-teach-technical-skills-to-a-group/)
 
 [<<< Previous](why.md) 
+
 -----
 [Return to introduction](https://github.com/SouthernMethodistUniversity/intro)
 

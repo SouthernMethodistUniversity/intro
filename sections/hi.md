@@ -21,6 +21,7 @@ Estimated time: 30 minutes
 
 
 [<<< Previous](logistics.md) | [Next >>>](DHRI.md)   
+
 ----
 [Return to introduction](https://github.com/SouthernMethodistUniversity/intro)
 
