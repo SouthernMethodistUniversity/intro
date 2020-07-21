@@ -39,6 +39,8 @@
 
 [Day in the life](http://www.digitalhumanities.org/dhq/vol/6/2/000123/000123.html)
 
+[Getting Started - Strategies for DH Professional Development](http://blog.paigemorgan.net/articles/20/getting-started.html)
+
 ### References for Community of Practice
 [Community of Practice Design Guide: A Step-by-Step Guide for Designing & Cultivating Communities of Practice in Higher Education](https://library.educause.edu/resources/2005/1/community-of-practice-design-guide-a-stepbystep-guide-for-designing-cultivating-communities-of-practice-in-higher-education)   
 
