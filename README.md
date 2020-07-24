@@ -1,5 +1,4 @@
 # Welcome to DHRI@SMU 2020 !
-* A Foundational Approach to Digital Humanities Research
 
 ## Before DHRI begins, please do the following
 * We will be using [Zoom](https://www.smu.edu/OIT/services/zoom) for discussion.
@@ -24,7 +23,7 @@ As part of our welcome process, we’ll provide some of the history of the proje
 * An understanding that Communities of Practice are the structure of this workshop series and means working together to improve everyone’s learning.
 * Digital Humanities is inherently interdisciplinary and collaborative, by participating in the activities with their fellow attendees they will simulate the work done by digital humanists.
 * Attendees should come to understand how to define DH (in a way that is useful for them). This is essential because DH is so many things, what definition is useful for their research and scholarship.  
-* Learn how to read 'bibliography' of dh project to see what went into it (about page)
+* Learn how to read 'bibliography' of a DH project to see what went into it (about page)
 * Attendees can articulate more sophisticated questions than previous.
 * By the end of the week they will not be digital humanities experts but they will be on their way to become full participants in a digital humanities community.
 

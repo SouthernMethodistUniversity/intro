@@ -46,8 +46,7 @@ Like reading a bibliography
 
 # How do you do that? How do we do that?
 * Not going to be good at everything, what is your area of focus, and what do you know you need help with?
-* [Legitimate Peripheral Practitioner (LPP)](https://en.wikipedia.org/wiki/Legitimate_peripheral_participation) – Apprentice models.
-* Becoming skillful and identity are the same process.
+* [Legitimate Peripheral Practitioner (LPP)](https://en.wikipedia.org/wiki/Legitimate_peripheral_participation) 
 
 ## Values & Ethics
 [Repository: Ethics for Digital Projects and Research](https://github.com/DHRISMU/ethics)

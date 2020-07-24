@@ -3,11 +3,15 @@
 
 # How did they do *this* specific project? 
 
-* We are going to examine Torn Apart/Separados whihc has two phases.
+* We are going to examine Torn Apart/Separados which has two phases.
 
 * [Torn Apart/Separados, vol. 1](http://xpmethod.columbia.edu/torn-apart/volume/1/) & [Torn Apart/Separados, Vol. 2](http://xpmethod.columbia.edu/torn-apart/volume/2/)
 
 * [Editors’ Choice: Torn Apart/Separados](https://digitalhumanitiesnow.org/2018/06/editors-choice-torn-apart-separados/)
+
+*  **OR** 
+
+* [Viral Texts](https://viraltexts.org/ ) 
 
 * [Activity handout](https://smu.box.com/s/fkbo0d5dq4fkcvf03ib6yfdnc6387xfp)
 
