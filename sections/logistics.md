@@ -15,7 +15,7 @@
 ### Hypothe.is
 * ["Hypothes.is is a web-browser add-on for annotating the web via inline commenting. This allows anyone to select a snippet of text in a web-browser and then post a comment about the selected text. Annotations can be made publicly or privately."](https://crumplab.github.io/OER_bookdown/hypothes-is-1.html)
 * [Get started](https://web.hypothes.is/start/)
-* [DHRI@SMU2020](https://hypothes.is/groups/Xx5gGjmB/dhri-smu2020)
+<!-- * [DHRI@SMU2020](https://hypothes.is/groups/Xx5gGjmB/dhri-smu2020)-->
 
 # Schedule
 
