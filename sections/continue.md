@@ -1,4 +1,4 @@
-[<<< Previous](why.md) 
+[<<< Previous](how.md) 
 
 # Following up
 
@@ -49,7 +49,7 @@
 ### Collaborative group set up
 [Based on *A better way to teach technical skills to a group*](http://miriamposner.com/blog/a-better-way-to-teach-technical-skills-to-a-group/)
 
-[<<< Previous](why.md) 
+[<<< Previous](how.md) 
 
 -----
 [Return to introduction](https://github.com/SouthernMethodistUniversity/intro)
