@@ -47,6 +47,7 @@ Like reading a bibliography
 # How do you do that? How do we do that?
 * Not going to be good at everything, what is your area of focus, and what do you know you need help with?
 * [Legitimate Peripheral Practitioner (LPP)](https://en.wikipedia.org/wiki/Legitimate_peripheral_participation) 
+* "I think that we rarely acknowledge another idea of what a DH project is, and the point of starting one: *it’s a demonstration that you are actively participating and contributing to one or more communities, shaping and being shaped by them.* Keeping that idea in mind can help ground your perspective as you proceed and allow you to avoid being overly focused on the idea of whether your project will or won’t succeed." (italics added) [Getting Started: Strategies for DH Professional Development, Paige Morgan ](http://blog.paigemorgan.net/articles/20/getting-started.html)
 
 ## Values & Ethics
 [Repository: Ethics for Digital Projects and Research](https://github.com/DHRISMU/ethics)
