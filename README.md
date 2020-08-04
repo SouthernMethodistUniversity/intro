@@ -21,7 +21,14 @@
 **Read the following post and watch the video before this session.**
 * ***[How Did They Make That? by Miriam Posner](https://miriamposner.com/blog/how-did-they-make-that/)***
 *  ***[How Did They Make That? The Video!by Miriam Posner](http://miriamposner.com/blog/how-did-they-make-that-the-video/)*** 
-* [Discussion handout](https://smu.box.com/s/valmcgnur9lwwffiqoiqc2uad3zl866s)
+* *Keep the following questions in mind. We will be discussing these texts in our first session*
+   * How does this related to DH projects that you have thought about as a model or template for your work?  
+   * What affordances and limitations are discussed?  
+   * What constraints did they operate under? 
+   * What was the original research question? 
+   * How did it change as the project was worked on? Whose labor was necessary for the project to be successful?  
+   * Which of those are made visible or acknowledged in the final output/publications? 
+   * How does that effect your perception of those projects? 
 
 # Introduction to DHRI@SMU 2020
 As part of our welcome process, we’ll provide some of the history of the project, review the schedule, establish the objectives for the Institute, and ask participants to engage in introductions and an ice breaker activity. We’ll review the objectives and the schedule for the next few days, sort out pedagogical practices, and set our ambitious course for our time together. Everything we do throughout the institute is collaborative and community-driven. 
