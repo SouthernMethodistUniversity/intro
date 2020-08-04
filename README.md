@@ -24,7 +24,7 @@ As part of our welcome process, we’ll provide some of the history of the proje
 * Acknowledging that Digital Humanities is inherently interdisciplinary and collaborative; by participating in activities with their fellow attendees, they will simulate the work done by digital humanists.
 * Creating a personal definition of DH that is useful for the individual's work. This is essential because DH is so many things -- what definition is useful for their research and scholarship?  
 * Learning how to read a 'bibliography' of a DH project to see what went into it (about page).
-* Articulate more sophisticated questions about DH than previously.
+* Articulating more sophisticated questions about DH than previously.
 
 By the end of the week, attendees will not be digital humanities experts, but they will be on their way to becoming full participants in a digital humanities community.
 
