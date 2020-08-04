@@ -22,14 +22,14 @@
  * [Schedule- UPDATE](https://github.com/DHRISMU/intro/blob/master/DHRIschedule.pdf)
 
      
-## Instructors for DHRI@SMU 20
+## Instructors for DHRI@SMU2020
 * [Rafia Mirza, Humanities Librarian](http://guides.smu.edu/prf.php?account_id=142826)
 * [Jonathan McMichael, User Experience Librarian](http://guides.smu.edu/prf.php?account_id=104877)
 * Joanna Russell Bliss, Research and User Experience Intern
 * [Eric Godat, Data Science Research Applications Developer](https://www.smu.edu/OIT/research)
 * [Aren Cambre, Director, Web Application Services](https://www.smu.edu/OIT/research)
 
-## Participant cohort for DHRI@SMU 20
+## Participant cohort for DHRI@SMU2020
 *To be listed 
 
 
