@@ -10,42 +10,41 @@
 *  ***[How Did They Make That? The Video!by Miriam Posner](http://miriamposner.com/blog/how-did-they-make-that-the-video/)*** 
 * [Discussion handout](https://smu.box.com/s/valmcgnur9lwwffiqoiqc2uad3zl866s)
 
-## Computational & humanities thinking “how did they do that”
-* How to ask questions? What questions you can ask?
-
-* Not providing answers, but generative questions? How did they do that? Why did they do it that way? 
-* Tool based vs foundations approach 
-* (questions, avoid curse of knowledge) 
-* How to build Bridges, not walled gardens 
+## Computational & humanities thinking: “How did they do that”
+* Determining *how* to ask questions: What questions you can ask?
+* Not providing answers, but generative questions: *How* did they do that? *Why* did they do it that way? 
+* Tool-based vs. foundations approaches
+* (Asking questions and avoiding the curse of knowledge) 
+* How to build bridges, not walled gardens 
 
 ### How do you read a project to see what went into it?
-Like reading a bibliography
-* How many articles listed? 
+Like reading a bibliography:
+* How many articles are listed? 
 * How many people? Who is given attribution? 	
-* Credits at the end of the movie 
+* Credits at the end of a movie 
 * Affordances & limitations 
 
-**Exercise: Taking existing models and adapting it to your field (what are some examples? How does it apply to your field?)**
+**Exercise: Take existing models and adapt it to your field. (What are some examples? How does it apply to your field?)**
 
-* Breaking Down into steps.
-* Imagining hypothetical projects (wireframing with no knowledge).
+* Break it down into steps.
+* Imagine hypothetical projects (wireframing with no knowledge).
 * What expertise is needed? Individual expertise may vary.
 * What resources are needed?
 * What questions are you trying to ask or answer?
-*   This is meant to be generative 
+    * This is meant to be generative.
 
 #### **[Technological Pedagogical and Content Knowledge (TPACK)](http://cristurple.blogspot.com/p/tpack.html)**
 
 [![tasks](https://github.com/DHRISMU/intro/blob/master/images/tpack.jpg)](http://cristurple.blogspot.com/p/tpack.html)
 
-#### System thinking: about affordances and limitations.
+#### System thinking: About affordances and limitations.
 * Focus on what is being hidden from you.
-*   What are the differences between different citations managers: Refworks vs Zotero?
+    * What are the differences between different citations managers: Refworks vs. Zotero?
 * Precision/control vs ease of use.
-* What ***affordances & limitations*** does each path offer?
+* What ***affordances & limitations*** are offered in each path?
 
 # How do you do that? How do we do that?
-* Not going to be good at everything, what is your area of focus, and what do you know you need help with?
+* You're not going to be good at everything. What is your area of focus, and what do you know you need help with?
 * [Legitimate Peripheral Practitioner (LPP)](https://en.wikipedia.org/wiki/Legitimate_peripheral_participation) 
 * "I think that we rarely acknowledge another idea of what a DH project is, and the point of starting one: *it’s a demonstration that you are actively participating and contributing to one or more communities, shaping and being shaped by them.* Keeping that idea in mind can help ground your perspective as you proceed and allow you to avoid being overly focused on the idea of whether your project will or won’t succeed." (italics added) [Getting Started: Strategies for DH Professional Development, Paige Morgan ](http://blog.paigemorgan.net/articles/20/getting-started.html)
 
@@ -62,17 +61,17 @@ Like reading a bibliography
 
 "Collaborations between students and more experienced digital humanities practitioners should benefit everyone." 
 
-## Group work & Project planning
+## Group work & project planning
 
 #### Project Planning Models 
 
 * [Project Charter](https://stewartvarner.com/2014/05/project-charter/) 
 * [MOU](https://rc.library.uta.edu/uta-ir/handle/10106/25646)
-* PMP:[Project Management Office (PMO) @SMU](https://www.smu.edu/OIT/Governance)
+* PMP: [Project Management Office (PMO) @SMU](https://www.smu.edu/OIT/Governance)
 
-***Reoccurring question to keep in mind: What are the affordances of choosing this path? What are the limitations?*** 
+***Recurring questions to keep in mind: What are the affordances of choosing this path? What are the limitations?*** 
 
-* You can use a project charter as a lightweight example of collaborative breainstorming and documentation.
+* You can use a project charter as a lightweight example of collaborative brainstorming and documentation.
 
 # Activity
 [link to Project Charter handout](https://smu.box.com/s/kc63uvd6dcob4ksfg6hibzjtnyes6iw6)
