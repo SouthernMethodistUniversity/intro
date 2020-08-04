@@ -15,7 +15,7 @@
 
 # Schedule
 
- * [Schedule- UPDATE](https://github.com/DHRISMU/intro/blob/master/DHRIschedule.pdf)
+ * [Schedule](https://github.com/SouthernMethodistUniversity/intro/blob/master/schedule.pdf)
 
      
 ## Instructors for DHRI@SMU2020
