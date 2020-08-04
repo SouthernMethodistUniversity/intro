@@ -23,8 +23,8 @@ While these results are desirable, we find that students who know how to use the
 ### Why use Communities of Practice (CoP) set up?
 
 1. CoP is the structure of this workshop series 
-2. CoP means working together to improve everyone’s learning.
-3. By participating in the activities with their fellow attendees they will simulate the work done by digital humanists
+2. CoP means working together to improve everyone’s learning
+3. CoP allows participants to simulate the work done by digital humanists by participating in activities with their fellow attendees
 
 
 # The pedagogical logic of each workshop session, and how we expect them to build on each other 
@@ -41,7 +41,7 @@ While these results are desirable, we find that students who know how to use the
 * ***Introductions to communities of practice and what is Digital Humanities?*** How do you determine what kinds of DH you want to do, and what skills does that type of DH require in terms of your skill building *or* what partners do you then need to seek out. No DH project is an island! (Unless maybe it is a veeeeeeery small island.) 
 
 * **Command line is used to understand the structure of computers and their logic.**     
-    * Introduces conceptualization/ helps to understand directory structure. 
+    * Introduces conceptualization/helps to understand directory structure. 
     * Helps understand how scripts work, so when you set up tools in the future, you can set them up to be useful for what you are trying to do. 
     * The goal is that when you are setting up environments in something like Rstudio (and it asks you about regrex), you can make informed choices about the settings. 
 
@@ -50,13 +50,13 @@ While these results are desirable, we find that students who know how to use the
 * **HPC and Python is ........** UPDATE.  
 
 * **Tools.** Understanding what data you need, and what you want to do with that, allows you to determine if you need a specific script/library package, or if you can use a DH tool for your specific question. 
-    * When a tool or program (such as even Zotero, Voyant) asks you to set up an environment or choose specific setting you are making choices that will shape your results. 
+    * When a tool or program (such as even Zotero or Voyant) asks you to set up an environment or choose a specific setting, you are making choices that will shape your results. 
     * When you are setting up your tools, questions are being asked that will shape the answers/results you get. If the set up questions don't make sense, you will have a better sense of what expertise you want to seek out to help you choose. 
-    * *Note:* Skill in programming or tools only grows when you are using them to complete a project (skill building is usually project-based).
+    * *Note:* Skills in programming or tools only grow when you are using them to complete a project (skill building is usually project-based).
 
 * **Affordances & Limitations.**  UPDATE copyright, licensing, ethics. 
 
-* In the closing **Project Lab** we will work on applying what we have discussed  to your specific research data/questions. 
+* In the closing **Project Lab** we will work on applying what we have discussed to your specific research data/questions. 
 
 * To build a complete project or thorough expertise is beyond the scope of this institute, but we want to help you build the foundation, and perhaps even an outline of your goal. We want to help you get to a point where you are comfortable figuring it out (stack exchange) or, when you know you have a question, how to phrase it and find the expertise you want to draw upon (Community of Practice).
 
