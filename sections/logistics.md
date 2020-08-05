@@ -10,8 +10,8 @@
 * We want to encourage interaction, conversations and sense of community. Let’s practice the following:
     * Keep cameras on 
     * Mute self when not talking
-    * Make use of chat (email or Slack chat will be available for asynchronous conversations) 
-* Each session will have a lead facilitator/instructor, but an additional facilitator will always be present and participating in chat. 
+    * Make use of chat (Slack chat will be available for asynchronous conversations) 
+* Each session will have a lead facilitator/instructor, but an additional facilitator will always be present and participating in chat on Slack. 
 
 # Schedule
 
@@ -25,8 +25,23 @@
 * [Eric Godat, Data Science Research Applications Developer](https://www.smu.edu/OIT/research)
 * [Aren Cambre, Director, Web Application Services](https://www.smu.edu/OIT/research)
 
-## Participant cohort for DHRI@SMU2020
-*To be listed 
+## Participant cohort for DHRI@SMU 2020
+* *SMU*
+* Lourdes Molina,Senior Lecturer of Spanish, World Languages and Literatures
+* Gizem	Arslan, Lecturer of Germann, World Languages and Literatures
+* Constantin Icleanu, Lecturer of Spanish, World Languages and Literature
+* Adam Neal, Asst. Director (Research) Office of Engaged Learning  
+* Jennifer Ebinger, Director, Office of Engaged Learning  
+* Camille McCallum, Program Specialist for Entrepreneurship, Office of Engaged Learning 
+* Jorden	Terrazas, Office of Engaged Learning 
+* Talia Weltman-Cisneros, Lecturer of Spanish, World Languages and Literatures
+* Leslie	Fuller, Bridwell Library
+* *Texas Woman's University*
+* Beatrice	Downey, Graduate Student LIS 
+ * *Oregon State University* 
+* Joel Zapata, Professor 
+* *University of Texas Arlington*	
+* Paul Ruiz-Requena, Graduate student, History
 
 
 [<<< Previous](https://github.com/DHRISMU/intro) | [Next >>>](hi.md)  
