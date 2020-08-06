@@ -10,7 +10,7 @@
 * We want to encourage interaction, conversations and sense of community. Let’s practice the following:
     * Keep cameras on 
     * Mute self when not talking
-    * Make use of chat (Slack chat will be available for asynchronous conversations) 
+    * Make use of Slack chat. We are using Slack, so that we can have asynchronous conversations.
 * Each session will have a lead facilitator/instructor, but an additional facilitator will always be present and participating in chat on Slack. 
 
 # Schedule
