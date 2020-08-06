@@ -14,8 +14,8 @@
 * Determining *how* to ask questions: What questions you can ask?
 * Not providing answers, but generative questions: *How* did they do that? *Why* did they do it that way? 
 * Tool-based vs. foundations approaches
-* (Asking questions and avoiding the [curse of knowledge)]
-     * ["Curse of knowledge is a cognitive bias that occurs when an individual, communicating with other individuals, unknowingly assumes that the others have the background to understand."](https://en.wikipedia.org/wiki/Curse_of_knowledge)
+* (Asking questions and avoiding the [curse of knowledge)
+      * ["Curse of knowledge is a cognitive bias that occurs when an individual, communicating with other individuals, unknowingly assumes that the others have the background to understand."](https://en.wikipedia.org/wiki/Curse_of_knowledge)
 * How to build bridges, not walled gardens 
 
 ### How do you read a project to see what went into it?
