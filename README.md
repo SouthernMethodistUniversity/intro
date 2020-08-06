@@ -4,7 +4,7 @@
 ### Zoom
 * We will be using [Zoom](https://www.smu.edu/OIT/services/zoom) for discussion.
     * If you have not used Zoom before, please make an [appointment with Rafia](https://libcal.smu.edu/appointments/?g=2334) before DHRI to become familiar with Zoom.  
-    * discuss breakout room
+    
 ### Slack
 * As we are working to build a community of practice, we are exploring multipe ways of communication. For this institute, we will be using Slack as an additional asynchronous communication method during the institute.
 * [How the Digital Humanities are using Slack to support and build a geographically dispersed intellectual community](https://blogs.lse.ac.uk/impactofsocialsciences/2016/07/13/using-slack-to-support-a-geographically-dispersed-community/)
@@ -13,7 +13,7 @@
 * [Getting started for new members](https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-members)
 * Join the already established channel of DHRI@SMU 
 
-### Optional 
+#### Optional 
 * The following links are designed to ensure that all incoming participants have a familiarity with core concepts in how computers and the internet work. They will introduce terms such as input, output, storage, CPU, hardware, software, bits, circuits, and the operating system, as well as wired, cables, WiFi, packets, DNS, IP addresses, packets and routing, HTTP and HTML, encryption, public keys, and how search works. The skills workshops will begin with an assumption that you are at least familiar with these concepts and terminology.
   * [Code.org. Introducing How Computers Work.YouTube](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN) [Watch all 6 short videos.]
   * [What Is the Internet? YouTube](https://www.youtube.com/watch?v=Dxcc6ycZ73M&list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7) [Watch all 8 short videos.]
@@ -70,9 +70,7 @@ What you will find in this Repository
 
 Session Leaders: [Jonathan McMichael](http://guides.smu.edu/prf.php?account_id=104877) & [Rafia Mirza](http://guides.smu.edu/prf.php?account_id=142826/)  
 
-Written by Rafia Mirza.
-Partially based on previous work by GCDI staff. Our curriculum is based on the Digital Research Institute (DHRI) Curriculum by Graduate Center Digital Initiatives.   
-[This repository contains information for using and contributing to the Digital Humanities Research Institute curriculum](https://github.com/DHRI-Curriculum/guide) 
+Written by Rafia Mirza. Partially based on previous work by GCDI staff. Our curriculum is based on the Digital Research Institute (DHRI) Curriculum by Graduate Center Digital Initiatives.[This repository contains information for using and contributing to the Digital Humanities Research Institute curriculum](https://github.com/DHRI-Curriculum/guide) 
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
