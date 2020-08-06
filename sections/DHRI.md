@@ -52,9 +52,9 @@ While these results are desirable, we find that students who know how to use the
 * **Tools.** Understanding what data you need, and what you want to do with that, allows you to determine if you need a specific script/library package, or if you can use a DH tool for your specific question. 
     * When a tool or program (such as even Zotero or Voyant) asks you to set up an environment or choose a specific setting, you are making choices that will shape your results. 
     * When you are setting up your tools, questions are being asked that will shape the answers/results you get. If the set up questions don't make sense, you will have a better sense of what expertise you want to seek out to help you choose. 
-           * *Note:* Skills in programming or tools only grow when you are using them to complete a project (skill building is usually project-based).
+             * *Note:* Skills in programming or tools only grow when you are using them to complete a project (skill building is usually project-based).
 
-* **Acces.**  When accessing or creating datasets; there are many considerations, including copyright, licensing, and ethics.
+* **Access.**  When accessing or creating datasets; there are many considerations, including copyright, licensing, and ethics.
 
 * In the closing **Project Planning and Project Lab** sections, we will work on applying what we have discussed to your specific research questions and projects. 
 
