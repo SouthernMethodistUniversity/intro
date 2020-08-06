@@ -75,6 +75,7 @@ Like reading a bibliography:
 
 # Activity
 [link to Project Charter handout](https://smu.box.com/s/kc63uvd6dcob4ksfg6hibzjtnyes6iw6)
+* We will retrun to this in the Project Planning workshop. 
   
 
 [<<< Previous](DH.md) | [Next >>>](continue.md) 
