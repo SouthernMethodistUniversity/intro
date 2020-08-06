@@ -8,7 +8,7 @@
 * We will be basing in session discussion around the following posts. **Read the following post and watch the video before this session.**
 * ***[How Did They Make That? by Miriam Posner](https://miriamposner.com/blog/how-did-they-make-that/)***
 *  ***[How Did They Make That? The Video!by Miriam Posner](http://miriamposner.com/blog/how-did-they-make-that-the-video/)*** 
-* [Discussion handout](https://smu.box.com/s/valmcgnur9lwwffiqoiqc2uad3zl866s)
+* [Discussion handout](https://github.com/SouthernMethodistUniversity/intro/blob/master/sections/how-handout.pdf)
 
 ## Computational & humanities thinking: “How did they do that”
 * Determining *how* to ask questions: What questions you can ask?
@@ -75,7 +75,7 @@ Example: Torn Apart / Separados: ]Vol 1](http://xpmethod.columbia.edu/torn-apart
 * You can use a project charter as a lightweight example of collaborative brainstorming and documentation.
 
 # Activity
-[Project Charter handout](https://smu.box.com/s/0mom95h3huqbkia05ba2pkk4ygmfhs6h)
+[Project Charter handout](https://github.com/SouthernMethodistUniversity/intro/blob/master/sections/charters-handout.pdf)
 * We will return to this in the Project Planning workshop. 
   
 
