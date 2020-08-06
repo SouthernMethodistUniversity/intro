@@ -5,7 +5,7 @@
 ## Location: Online (Zoom)
 
 *  We will be using [Zoom](https://www.smu.edu/OIT/services/zoom) for discussion.
-*  Before DHRI: If you have not used Zoom before, please make an [appointment with Rafia](https://libcal.smu.edu/appointments/?g=2334) before DHRI to become familiar with Zoom.  
+    * Discuss: How we will use breakout rooms
 ### Our Zoom norms
 * We want to encourage interaction, conversations and sense of community. Let’s practice the following:
     * Keep cameras on 
