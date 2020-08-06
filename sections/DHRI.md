@@ -40,23 +40,23 @@ While these results are desirable, we find that students who know how to use the
 
 * ***Introductions to communities of practice and what is Digital Humanities?*** How do you determine what kinds of DH you want to do, and what skills does that type of DH require in terms of your skill building *or* what partners do you then need to seek out. No DH project is an island! (Unless maybe it is a veeeeeeery small island.) 
 
-* **Command line is used to understand the structure of computers and their logic.**     
+* **Coding is an introduction to the structure of computers, text editors and their logic.**     
     * Introduces conceptualization/helps to understand directory structure. 
     * Helps understand how scripts work, so when you set up tools in the future, you can set them up to be useful for what you are trying to do. 
     * The goal is that when you are setting up environments in something like Rstudio (and it asks you about regrex), you can make informed choices about the settings. 
 
 * **Data literacies.** ["Data literacy includes statistical literacy but also understanding how to work with large data sets, how they were produced, how to connect various data sets and how to interpret them.”](http://datajournalismhandbook.org/1.0/en/understanding_data_0.html). When we talk about data in the humanities, what do we mean? Big? Smart? Clean? Messy? 
  
-* **HPC and Python is ........** UPDATE.  
+* **Python** is one of the common languanges used in DH, used for a wide range of tasks, including collecting and analyzing data in a variety of formats. We will go trhough how to get started in Python, using libraries and how you can continue to grow your skills after DHRI. 
 
 * **Tools.** Understanding what data you need, and what you want to do with that, allows you to determine if you need a specific script/library package, or if you can use a DH tool for your specific question. 
     * When a tool or program (such as even Zotero or Voyant) asks you to set up an environment or choose a specific setting, you are making choices that will shape your results. 
     * When you are setting up your tools, questions are being asked that will shape the answers/results you get. If the set up questions don't make sense, you will have a better sense of what expertise you want to seek out to help you choose. 
-    * *Note:* Skills in programming or tools only grow when you are using them to complete a project (skill building is usually project-based).
+           * *Note:* Skills in programming or tools only grow when you are using them to complete a project (skill building is usually project-based).
 
-* **Affordances & Limitations.**  UPDATE copyright, licensing, ethics. 
+* **Acces.**  When accessing or creating datasets; there are many considerations, including copyright, licensing, and ethics.
 
-* In the closing **Project Lab** we will work on applying what we have discussed to your specific research data/questions. 
+* In the closing **Project Planning and Project Lab** sections, we will work on applying what we have discussed to your specific research questions and projects. 
 
 * To build a complete project or thorough expertise is beyond the scope of this institute, but we want to help you build the foundation, and perhaps even an outline of your goal. We want to help you get to a point where you are comfortable figuring it out (stack exchange) or, when you know you have a question, how to phrase it and find the expertise you want to draw upon (Community of Practice).
 
