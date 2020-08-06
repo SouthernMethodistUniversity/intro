@@ -50,8 +50,8 @@ Like reading a bibliography:
 * "I think that we rarely acknowledge another idea of what a DH project is, and the point of starting one: *it’s a demonstration that you are actively participating and contributing to one or more communities, shaping and being shaped by them.* Keeping that idea in mind can help ground your perspective as you proceed and allow you to avoid being overly focused on the idea of whether your project will or won’t succeed." (italics added) [Getting Started: Strategies for DH Professional Development, Paige Morgan ](http://blog.paigemorgan.net/articles/20/getting-started.html)
 
 ## Values & Ethics
-[Repository: Ethics for Digital Projects and Research](https://github.com/DHRISMU/ethics)
-[Activity](https://github.com/DHRISMU/ethics/blob/master/sections/beyond.md#activity)
+* Some projects will explicitly state their ethical framework and values, whereas in others they are implicit. 
+Example: Torn Apart / Separados: ]Vol 1](http://xpmethod.columbia.edu/torn-apart/volume/1/) and [Vol. 2](http://xpmethod.columbia.edu/torn-apart/volume/2/index)  
 
 ## Labor & Attribution 
 * [Collaborators’ Bill of Rights](http://mcpress.media-commons.org/offthetracks/part-one-models-for-collaboration-career-paths-acquiring-institutional-support-and-transformation-in-the-field/a-collaboration/collaborators%E2%80%99-bill-of-rights/)
@@ -75,7 +75,7 @@ Like reading a bibliography:
 * You can use a project charter as a lightweight example of collaborative brainstorming and documentation.
 
 # Activity
-[link to Project Charter handout](https://smu.box.com/s/kc63uvd6dcob4ksfg6hibzjtnyes6iw6)
+[Project Charter handout](https://smu.box.com/s/0mom95h3huqbkia05ba2pkk4ygmfhs6h)
 * We will return to this in the Project Planning workshop. 
   
 
