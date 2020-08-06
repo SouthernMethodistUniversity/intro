@@ -4,6 +4,7 @@
 ### Zoom
 * We will be using [Zoom](https://www.smu.edu/OIT/services/zoom) for discussion.
     * If you have not used Zoom before, please make an [appointment with Rafia](https://libcal.smu.edu/appointments/?g=2334) before DHRI to become familiar with Zoom.  
+    * discuss breakout room
 ### Slack
 * As we are working to build a community of practice, we are exploring multipe ways of communication. For this institute, we will be using Slack as an additional asynchronous communication method during the institute.
 * [How the Digital Humanities are using Slack to support and build a geographically dispersed intellectual community](https://blogs.lse.ac.uk/impactofsocialsciences/2016/07/13/using-slack-to-support-a-geographically-dispersed-community/)
