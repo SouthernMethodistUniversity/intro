@@ -9,7 +9,7 @@
     * What about DH is interesting to you?  
     * Do you have a research project in mind? 
 
-*  Discussion of collaborative project experiences (breakout rooms):
+*  Discussion of collaborative project experiences (breakout rooms
     * Think of a group project you already have done in school/work. 
         * If it went well, what made it go well? 
         * If it went poorly, what made it go poorly? 
