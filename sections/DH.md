@@ -41,7 +41,12 @@ See also: [“Digital Humanities” In The Craft of Criticism: Critical Media St
 
 [![tasks](https://imgs.xkcd.com/comics/tasks.png)](https://xkcd.com/1425/)
 
-* [Explain xkcd 1425](https://www.explainxkcd.com/wiki/index.php/1425:_Tasks)
+*[Explain xkcd 1425](https://www.explainxkcd.com/wiki/index.php/1425:_Tasks)
+
+
+[![tasks](https://github.com/SouthernMethodistUniversity/intro/blob/master/images/techhelp.png)](https://xkcd.com/2341/)
+
+*[Explain xkcd 2341](https://www.explainxkcd.com/wiki/index.php/2341:_Scientist_Tech_Help)
 
 # What is DH?
 * How do we come up with definitions of DH that are useful? What kind of questions do you ask?
