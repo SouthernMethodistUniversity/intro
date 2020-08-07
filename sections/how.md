@@ -9,6 +9,7 @@
 * ***[How Did They Make That? by Miriam Posner](https://miriamposner.com/blog/how-did-they-make-that/)***
 *  ***[How Did They Make That? The Video!by Miriam Posner](http://miriamposner.com/blog/how-did-they-make-that-the-video/)*** 
 * [Discussion handout](https://github.com/SouthernMethodistUniversity/intro/blob/master/sections/how-handout.pdf)
+* [Activity handout](https://github.com/SouthernMethodistUniversity/intro/blob/master/sections/evaluate_handout.pdf)
 
 ## Computational & humanities thinking: “How did they do that”
 * Determining *how* to ask questions: What questions you can ask?
