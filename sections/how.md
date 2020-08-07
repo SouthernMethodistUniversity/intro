@@ -26,10 +26,9 @@ Like reading a bibliography:
 * Credits at the end of a movie 
 * Affordances & limitations 
    
- * [Activity handout](https://github.com/SouthernMethodistUniversity/intro/blob/master/sections/evaluate_handout.pdf)
-      * What does this project tell you about *how* it was done? [The Viral Texts Project](https://viraltexts.org/)
+ **[Activity handout](https://github.com/SouthernMethodistUniversity/intro/blob/master/sections/evaluate_handout.pdf) What does this project tell you about *how* it was done? [The Viral Texts Project](https://viraltexts.org/)**
 
-**Exercise: Take existing models and adapt it to your field. (What are some examples? How does it apply to your field?)**
+*Exercise: Take existing models and adapt it to your field. (What are some examples? How does it apply to your field?)*
 
 * Break it down into steps.
 * Imagine hypothetical projects (wireframing with no knowledge).
