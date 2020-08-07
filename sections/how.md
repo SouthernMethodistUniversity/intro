@@ -9,7 +9,7 @@
 * ***[How Did They Make That? by Miriam Posner](https://miriamposner.com/blog/how-did-they-make-that/)***
 *  ***[How Did They Make That? The Video!by Miriam Posner](http://miriamposner.com/blog/how-did-they-make-that-the-video/)*** 
 * [Discussion handout](https://github.com/SouthernMethodistUniversity/intro/blob/master/sections/how-handout.pdf)
-* [Activity handout](https://github.com/SouthernMethodistUniversity/intro/blob/master/sections/evaluate_handout.pdf)
+
 
 ## Computational & humanities thinking: “How did they do that”
 * Determining *how* to ask questions: What questions you can ask?
@@ -26,6 +26,8 @@ Like reading a bibliography:
 * Credits at the end of a movie 
 * Affordances & limitations 
 
+* [Activity handout](https://github.com/SouthernMethodistUniversity/intro/blob/master/sections/evaluate_handout.pdf)
+
 **Exercise: Take existing models and adapt it to your field. (What are some examples? How does it apply to your field?)**
 
 * Break it down into steps.
@@ -34,6 +36,9 @@ Like reading a bibliography:
 * What resources are needed?
 * What questions are you trying to ask or answer?
     * This is meant to be generative.
+    
+ * [Activity handout](https://github.com/SouthernMethodistUniversity/intro/blob/master/sections/evaluate_handout.pdf)
+      * What does this project tell you about *how* it was done? [The Viral Texts Project](https://viraltexts.org/)
 
 #### **[Technological Pedagogical and Content Knowledge (TPACK)](http://cristurple.blogspot.com/p/tpack.html)**
 
