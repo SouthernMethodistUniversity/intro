@@ -51,7 +51,7 @@ Like reading a bibliography:
 
 ## Values & Ethics
 * Some projects will explicitly state their ethical framework and values, whereas in others they are implicit. 
-Example: Torn Apart / Separados: ]Vol 1](http://xpmethod.columbia.edu/torn-apart/volume/1/) and [Vol. 2](http://xpmethod.columbia.edu/torn-apart/volume/2/index)  
+* Example: Torn Apart / Separados: [Vol 1](http://xpmethod.columbia.edu/torn-apart/volume/1/) and [Vol. 2](http://xpmethod.columbia.edu/torn-apart/volume/2/index)  
 
 ## Labor & Attribution 
 * [Collaborators’ Bill of Rights](http://mcpress.media-commons.org/offthetracks/part-one-models-for-collaboration-career-paths-acquiring-institutional-support-and-transformation-in-the-field/a-collaboration/collaborators%E2%80%99-bill-of-rights/)
